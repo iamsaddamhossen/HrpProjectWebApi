@@ -1,0 +1,930 @@
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\CustomCleanArchitecureTemplate\WebApi\bin\Debug\net5.0\appsettings.json
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\CustomCleanArchitecureTemplate\WebApi\bin\Debug\net5.0\WebApi.exe
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\CustomCleanArchitecureTemplate\WebApi\bin\Debug\net5.0\WebApi.deps.json
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\CustomCleanArchitecureTemplate\WebApi\bin\Debug\net5.0\WebApi.runtimeconfig.json
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\CustomCleanArchitecureTemplate\WebApi\bin\Debug\net5.0\WebApi.runtimeconfig.dev.json
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\CustomCleanArchitecureTemplate\WebApi\bin\Debug\net5.0\WebApi.dll
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\CustomCleanArchitecureTemplate\WebApi\bin\Debug\net5.0\ref\WebApi.dll
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\CustomCleanArchitecureTemplate\WebApi\bin\Debug\net5.0\WebApi.pdb
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\CustomCleanArchitecureTemplate\WebApi\bin\Debug\net5.0\CleanArchitecture.WebApi.xml
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\CustomCleanArchitecureTemplate\WebApi\bin\Debug\net5.0\AutoMapper.dll
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\CustomCleanArchitecureTemplate\WebApi\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\CustomCleanArchitecureTemplate\WebApi\bin\Debug\net5.0\FluentValidation.dll
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\CustomCleanArchitecureTemplate\WebApi\bin\Debug\net5.0\FluentValidation.AspNetCore.dll
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\CustomCleanArchitecureTemplate\WebApi\bin\Debug\net5.0\FluentValidation.DependencyInjectionExtensions.dll
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\CustomCleanArchitecureTemplate\WebApi\bin\Debug\net5.0\Humanizer.dll
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\CustomCleanArchitecureTemplate\WebApi\bin\Debug\net5.0\MailKit.dll
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\CustomCleanArchitecureTemplate\WebApi\bin\Debug\net5.0\MediatR.dll
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\CustomCleanArchitecureTemplate\WebApi\bin\Debug\net5.0\MediatR.Extensions.Microsoft.DependencyInjection.dll
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\CustomCleanArchitecureTemplate\WebApi\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\CustomCleanArchitecureTemplate\WebApi\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\CustomCleanArchitecureTemplate\WebApi\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\CustomCleanArchitecureTemplate\WebApi\bin\Debug\net5.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\CustomCleanArchitecureTemplate\WebApi\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\CustomCleanArchitecureTemplate\WebApi\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\CustomCleanArchitecureTemplate\WebApi\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\CustomCleanArchitecureTemplate\WebApi\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.Versioning.dll
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\CustomCleanArchitecureTemplate\WebApi\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\CustomCleanArchitecureTemplate\WebApi\bin\Debug\net5.0\Microsoft.Azure.Services.AppAuthentication.dll
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\CustomCleanArchitecureTemplate\WebApi\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\CustomCleanArchitecureTemplate\WebApi\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\CustomCleanArchitecureTemplate\WebApi\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\CustomCleanArchitecureTemplate\WebApi\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\CustomCleanArchitecureTemplate\WebApi\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\CustomCleanArchitecureTemplate\WebApi\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\CustomCleanArchitecureTemplate\WebApi\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\CustomCleanArchitecureTemplate\WebApi\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\CustomCleanArchitecureTemplate\WebApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\CustomCleanArchitecureTemplate\WebApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\CustomCleanArchitecureTemplate\WebApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\CustomCleanArchitecureTemplate\WebApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.InMemory.dll
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\CustomCleanArchitecureTemplate\WebApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\CustomCleanArchitecureTemplate\WebApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\CustomCleanArchitecureTemplate\WebApi\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\CustomCleanArchitecureTemplate\WebApi\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\CustomCleanArchitecureTemplate\WebApi\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\CustomCleanArchitecureTemplate\WebApi\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\CustomCleanArchitecureTemplate\WebApi\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\CustomCleanArchitecureTemplate\WebApi\bin\Debug\net5.0\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\CustomCleanArchitecureTemplate\WebApi\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\CustomCleanArchitecureTemplate\WebApi\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\CustomCleanArchitecureTemplate\WebApi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\CustomCleanArchitecureTemplate\WebApi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\CustomCleanArchitecureTemplate\WebApi\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\CustomCleanArchitecureTemplate\WebApi\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\CustomCleanArchitecureTemplate\WebApi\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\CustomCleanArchitecureTemplate\WebApi\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\CustomCleanArchitecureTemplate\WebApi\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\CustomCleanArchitecureTemplate\WebApi\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\CustomCleanArchitecureTemplate\WebApi\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\CustomCleanArchitecureTemplate\WebApi\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\CustomCleanArchitecureTemplate\WebApi\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\CustomCleanArchitecureTemplate\WebApi\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\CustomCleanArchitecureTemplate\WebApi\bin\Debug\net5.0\MimeKit.dll
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\CustomCleanArchitecureTemplate\WebApi\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\CustomCleanArchitecureTemplate\WebApi\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\CustomCleanArchitecureTemplate\WebApi\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\CustomCleanArchitecureTemplate\WebApi\bin\Debug\net5.0\Serilog.dll
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\CustomCleanArchitecureTemplate\WebApi\bin\Debug\net5.0\Serilog.AspNetCore.dll
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\CustomCleanArchitecureTemplate\WebApi\bin\Debug\net5.0\Serilog.Enrichers.Environment.dll
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\CustomCleanArchitecureTemplate\WebApi\bin\Debug\net5.0\Serilog.Enrichers.Process.dll
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\CustomCleanArchitecureTemplate\WebApi\bin\Debug\net5.0\Serilog.Enrichers.Thread.dll
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\CustomCleanArchitecureTemplate\WebApi\bin\Debug\net5.0\Serilog.Extensions.Hosting.dll
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\CustomCleanArchitecureTemplate\WebApi\bin\Debug\net5.0\Serilog.Extensions.Logging.dll
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\CustomCleanArchitecureTemplate\WebApi\bin\Debug\net5.0\Serilog.Formatting.Compact.dll
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\CustomCleanArchitecureTemplate\WebApi\bin\Debug\net5.0\Serilog.Settings.Configuration.dll
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\CustomCleanArchitecureTemplate\WebApi\bin\Debug\net5.0\Serilog.Sinks.Console.dll
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\CustomCleanArchitecureTemplate\WebApi\bin\Debug\net5.0\Serilog.Sinks.Debug.dll
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\CustomCleanArchitecureTemplate\WebApi\bin\Debug\net5.0\Serilog.Sinks.File.dll
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\CustomCleanArchitecureTemplate\WebApi\bin\Debug\net5.0\Serilog.Sinks.MSSqlServer.dll
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\CustomCleanArchitecureTemplate\WebApi\bin\Debug\net5.0\Serilog.Sinks.PeriodicBatching.dll
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\CustomCleanArchitecureTemplate\WebApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\CustomCleanArchitecureTemplate\WebApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\CustomCleanArchitecureTemplate\WebApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\CustomCleanArchitecureTemplate\WebApi\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\CustomCleanArchitecureTemplate\WebApi\bin\Debug\net5.0\System.Composition.Convention.dll
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\CustomCleanArchitecureTemplate\WebApi\bin\Debug\net5.0\System.Composition.Hosting.dll
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\CustomCleanArchitecureTemplate\WebApi\bin\Debug\net5.0\System.Composition.Runtime.dll
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\CustomCleanArchitecureTemplate\WebApi\bin\Debug\net5.0\System.Composition.TypedParts.dll
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\CustomCleanArchitecureTemplate\WebApi\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\CustomCleanArchitecureTemplate\WebApi\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\CustomCleanArchitecureTemplate\WebApi\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\CustomCleanArchitecureTemplate\WebApi\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\CustomCleanArchitecureTemplate\WebApi\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\CustomCleanArchitecureTemplate\WebApi\bin\Debug\net5.0\System.Text.Json.dll
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\CustomCleanArchitecureTemplate\WebApi\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\CustomCleanArchitecureTemplate\WebApi\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\CustomCleanArchitecureTemplate\WebApi\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\CustomCleanArchitecureTemplate\WebApi\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\CustomCleanArchitecureTemplate\WebApi\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\CustomCleanArchitecureTemplate\WebApi\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\CustomCleanArchitecureTemplate\WebApi\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\CustomCleanArchitecureTemplate\WebApi\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\CustomCleanArchitecureTemplate\WebApi\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\CustomCleanArchitecureTemplate\WebApi\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\CustomCleanArchitecureTemplate\WebApi\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\CustomCleanArchitecureTemplate\WebApi\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\CustomCleanArchitecureTemplate\WebApi\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\CustomCleanArchitecureTemplate\WebApi\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\CustomCleanArchitecureTemplate\WebApi\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\CustomCleanArchitecureTemplate\WebApi\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\CustomCleanArchitecureTemplate\WebApi\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\CustomCleanArchitecureTemplate\WebApi\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\CustomCleanArchitecureTemplate\WebApi\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\CustomCleanArchitecureTemplate\WebApi\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\CustomCleanArchitecureTemplate\WebApi\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\CustomCleanArchitecureTemplate\WebApi\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\CustomCleanArchitecureTemplate\WebApi\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\CustomCleanArchitecureTemplate\WebApi\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\CustomCleanArchitecureTemplate\WebApi\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\CustomCleanArchitecureTemplate\WebApi\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\CustomCleanArchitecureTemplate\WebApi\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\CustomCleanArchitecureTemplate\WebApi\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\CustomCleanArchitecureTemplate\WebApi\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\CustomCleanArchitecureTemplate\WebApi\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\CustomCleanArchitecureTemplate\WebApi\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\CustomCleanArchitecureTemplate\WebApi\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\CustomCleanArchitecureTemplate\WebApi\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\CustomCleanArchitecureTemplate\WebApi\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\CustomCleanArchitecureTemplate\WebApi\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\CustomCleanArchitecureTemplate\WebApi\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\CustomCleanArchitecureTemplate\WebApi\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\CustomCleanArchitecureTemplate\WebApi\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\CustomCleanArchitecureTemplate\WebApi\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\CustomCleanArchitecureTemplate\WebApi\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\CustomCleanArchitecureTemplate\WebApi\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\CustomCleanArchitecureTemplate\WebApi\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\CustomCleanArchitecureTemplate\WebApi\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\CustomCleanArchitecureTemplate\WebApi\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\CustomCleanArchitecureTemplate\WebApi\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\CustomCleanArchitecureTemplate\WebApi\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\CustomCleanArchitecureTemplate\WebApi\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\CustomCleanArchitecureTemplate\WebApi\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\CustomCleanArchitecureTemplate\WebApi\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\CustomCleanArchitecureTemplate\WebApi\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\CustomCleanArchitecureTemplate\WebApi\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\CustomCleanArchitecureTemplate\WebApi\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\CustomCleanArchitecureTemplate\WebApi\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\CustomCleanArchitecureTemplate\WebApi\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\CustomCleanArchitecureTemplate\WebApi\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\CustomCleanArchitecureTemplate\WebApi\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\CustomCleanArchitecureTemplate\WebApi\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\CustomCleanArchitecureTemplate\WebApi\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\CustomCleanArchitecureTemplate\WebApi\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\CustomCleanArchitecureTemplate\WebApi\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\CustomCleanArchitecureTemplate\WebApi\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\CustomCleanArchitecureTemplate\WebApi\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\CustomCleanArchitecureTemplate\WebApi\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\CustomCleanArchitecureTemplate\WebApi\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\CustomCleanArchitecureTemplate\WebApi\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\CustomCleanArchitecureTemplate\WebApi\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\CustomCleanArchitecureTemplate\WebApi\bin\Debug\net5.0\Application.dll
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\CustomCleanArchitecureTemplate\WebApi\bin\Debug\net5.0\Domain.dll
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\CustomCleanArchitecureTemplate\WebApi\bin\Debug\net5.0\Infrastructure.Identity.dll
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\CustomCleanArchitecureTemplate\WebApi\bin\Debug\net5.0\Infrastructure.Persistence.dll
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\CustomCleanArchitecureTemplate\WebApi\bin\Debug\net5.0\Infrastructure.Shared.dll
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\CustomCleanArchitecureTemplate\WebApi\bin\Debug\net5.0\Application.pdb
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\CustomCleanArchitecureTemplate\WebApi\bin\Debug\net5.0\Infrastructure.Identity.pdb
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\CustomCleanArchitecureTemplate\WebApi\bin\Debug\net5.0\Infrastructure.Persistence.pdb
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\CustomCleanArchitecureTemplate\WebApi\bin\Debug\net5.0\Infrastructure.Shared.pdb
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\CustomCleanArchitecureTemplate\WebApi\bin\Debug\net5.0\Domain.pdb
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\CustomCleanArchitecureTemplate\WebApi\obj\Debug\net5.0\WebApi.csprojAssemblyReference.cache
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\CustomCleanArchitecureTemplate\WebApi\obj\Debug\net5.0\WebApi.GeneratedMSBuildEditorConfig.editorconfig
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\CustomCleanArchitecureTemplate\WebApi\obj\Debug\net5.0\WebApi.AssemblyInfoInputs.cache
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\CustomCleanArchitecureTemplate\WebApi\obj\Debug\net5.0\WebApi.AssemblyInfo.cs
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\CustomCleanArchitecureTemplate\WebApi\obj\Debug\net5.0\WebApi.csproj.CoreCompileInputs.cache
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\CustomCleanArchitecureTemplate\WebApi\obj\Debug\net5.0\WebApi.MvcApplicationPartsAssemblyInfo.cs
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\CustomCleanArchitecureTemplate\WebApi\obj\Debug\net5.0\WebApi.MvcApplicationPartsAssemblyInfo.cache
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\CustomCleanArchitecureTemplate\WebApi\obj\Debug\net5.0\staticwebassets\WebApi.StaticWebAssets.Manifest.cache
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\CustomCleanArchitecureTemplate\WebApi\obj\Debug\net5.0\staticwebassets\WebApi.StaticWebAssets.xml
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\CustomCleanArchitecureTemplate\WebApi\obj\Debug\net5.0\scopedcss\bundle\WebApi.styles.css
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\CustomCleanArchitecureTemplate\WebApi\obj\Debug\net5.0\WebApi.RazorTargetAssemblyInfo.cache
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\CustomCleanArchitecureTemplate\WebApi\obj\Debug\net5.0\WebApi.csproj.CopyComplete
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\CustomCleanArchitecureTemplate\WebApi\obj\Debug\net5.0\WebApi.dll
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\CustomCleanArchitecureTemplate\WebApi\obj\Debug\net5.0\ref\WebApi.dll
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\CustomCleanArchitecureTemplate\WebApi\obj\Debug\net5.0\WebApi.pdb
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\CustomCleanArchitecureTemplate\WebApi\obj\Debug\net5.0\WebApi.genruntimeconfig.cache
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\TestWebApi\WebApi\bin\Debug\net5.0\appsettings.json
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\TestWebApi\WebApi\bin\Debug\net5.0\WebApi.exe
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\TestWebApi\WebApi\bin\Debug\net5.0\WebApi.deps.json
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\TestWebApi\WebApi\bin\Debug\net5.0\WebApi.runtimeconfig.json
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\TestWebApi\WebApi\bin\Debug\net5.0\WebApi.runtimeconfig.dev.json
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\TestWebApi\WebApi\bin\Debug\net5.0\WebApi.dll
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\TestWebApi\WebApi\bin\Debug\net5.0\ref\WebApi.dll
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\TestWebApi\WebApi\bin\Debug\net5.0\WebApi.pdb
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\TestWebApi\WebApi\bin\Debug\net5.0\CleanArchitecture.WebApi.xml
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\TestWebApi\WebApi\bin\Debug\net5.0\AutoMapper.dll
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\TestWebApi\WebApi\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\TestWebApi\WebApi\bin\Debug\net5.0\FluentValidation.dll
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\TestWebApi\WebApi\bin\Debug\net5.0\FluentValidation.AspNetCore.dll
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\TestWebApi\WebApi\bin\Debug\net5.0\FluentValidation.DependencyInjectionExtensions.dll
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\TestWebApi\WebApi\bin\Debug\net5.0\Humanizer.dll
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\TestWebApi\WebApi\bin\Debug\net5.0\MailKit.dll
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\TestWebApi\WebApi\bin\Debug\net5.0\MediatR.dll
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\TestWebApi\WebApi\bin\Debug\net5.0\MediatR.Extensions.Microsoft.DependencyInjection.dll
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\TestWebApi\WebApi\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\TestWebApi\WebApi\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\TestWebApi\WebApi\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\TestWebApi\WebApi\bin\Debug\net5.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\TestWebApi\WebApi\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\TestWebApi\WebApi\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\TestWebApi\WebApi\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\TestWebApi\WebApi\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.Versioning.dll
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\TestWebApi\WebApi\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\TestWebApi\WebApi\bin\Debug\net5.0\Microsoft.Azure.Services.AppAuthentication.dll
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\TestWebApi\WebApi\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\TestWebApi\WebApi\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\TestWebApi\WebApi\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\TestWebApi\WebApi\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\TestWebApi\WebApi\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\TestWebApi\WebApi\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\TestWebApi\WebApi\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\TestWebApi\WebApi\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\TestWebApi\WebApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\TestWebApi\WebApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\TestWebApi\WebApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\TestWebApi\WebApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.InMemory.dll
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\TestWebApi\WebApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\TestWebApi\WebApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\TestWebApi\WebApi\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\TestWebApi\WebApi\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\TestWebApi\WebApi\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\TestWebApi\WebApi\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\TestWebApi\WebApi\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\TestWebApi\WebApi\bin\Debug\net5.0\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\TestWebApi\WebApi\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\TestWebApi\WebApi\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\TestWebApi\WebApi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\TestWebApi\WebApi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\TestWebApi\WebApi\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\TestWebApi\WebApi\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\TestWebApi\WebApi\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\TestWebApi\WebApi\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\TestWebApi\WebApi\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\TestWebApi\WebApi\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\TestWebApi\WebApi\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\TestWebApi\WebApi\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\TestWebApi\WebApi\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\TestWebApi\WebApi\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\TestWebApi\WebApi\bin\Debug\net5.0\MimeKit.dll
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\TestWebApi\WebApi\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\TestWebApi\WebApi\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\TestWebApi\WebApi\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\TestWebApi\WebApi\bin\Debug\net5.0\Serilog.dll
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\TestWebApi\WebApi\bin\Debug\net5.0\Serilog.AspNetCore.dll
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\TestWebApi\WebApi\bin\Debug\net5.0\Serilog.Enrichers.Environment.dll
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\TestWebApi\WebApi\bin\Debug\net5.0\Serilog.Enrichers.Process.dll
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\TestWebApi\WebApi\bin\Debug\net5.0\Serilog.Enrichers.Thread.dll
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\TestWebApi\WebApi\bin\Debug\net5.0\Serilog.Extensions.Hosting.dll
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\TestWebApi\WebApi\bin\Debug\net5.0\Serilog.Extensions.Logging.dll
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\TestWebApi\WebApi\bin\Debug\net5.0\Serilog.Formatting.Compact.dll
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\TestWebApi\WebApi\bin\Debug\net5.0\Serilog.Settings.Configuration.dll
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\TestWebApi\WebApi\bin\Debug\net5.0\Serilog.Sinks.Console.dll
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\TestWebApi\WebApi\bin\Debug\net5.0\Serilog.Sinks.Debug.dll
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\TestWebApi\WebApi\bin\Debug\net5.0\Serilog.Sinks.File.dll
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\TestWebApi\WebApi\bin\Debug\net5.0\Serilog.Sinks.MSSqlServer.dll
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\TestWebApi\WebApi\bin\Debug\net5.0\Serilog.Sinks.PeriodicBatching.dll
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\TestWebApi\WebApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\TestWebApi\WebApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\TestWebApi\WebApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\TestWebApi\WebApi\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\TestWebApi\WebApi\bin\Debug\net5.0\System.Composition.Convention.dll
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\TestWebApi\WebApi\bin\Debug\net5.0\System.Composition.Hosting.dll
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\TestWebApi\WebApi\bin\Debug\net5.0\System.Composition.Runtime.dll
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\TestWebApi\WebApi\bin\Debug\net5.0\System.Composition.TypedParts.dll
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\TestWebApi\WebApi\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\TestWebApi\WebApi\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\TestWebApi\WebApi\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\TestWebApi\WebApi\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\TestWebApi\WebApi\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\TestWebApi\WebApi\bin\Debug\net5.0\System.Text.Json.dll
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\TestWebApi\WebApi\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\TestWebApi\WebApi\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\TestWebApi\WebApi\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\TestWebApi\WebApi\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\TestWebApi\WebApi\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\TestWebApi\WebApi\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\TestWebApi\WebApi\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\TestWebApi\WebApi\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\TestWebApi\WebApi\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\TestWebApi\WebApi\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\TestWebApi\WebApi\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\TestWebApi\WebApi\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\TestWebApi\WebApi\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\TestWebApi\WebApi\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\TestWebApi\WebApi\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\TestWebApi\WebApi\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\TestWebApi\WebApi\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\TestWebApi\WebApi\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\TestWebApi\WebApi\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\TestWebApi\WebApi\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\TestWebApi\WebApi\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\TestWebApi\WebApi\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\TestWebApi\WebApi\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\TestWebApi\WebApi\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\TestWebApi\WebApi\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\TestWebApi\WebApi\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\TestWebApi\WebApi\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\TestWebApi\WebApi\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\TestWebApi\WebApi\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\TestWebApi\WebApi\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\TestWebApi\WebApi\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\TestWebApi\WebApi\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\TestWebApi\WebApi\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\TestWebApi\WebApi\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\TestWebApi\WebApi\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\TestWebApi\WebApi\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\TestWebApi\WebApi\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\TestWebApi\WebApi\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\TestWebApi\WebApi\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\TestWebApi\WebApi\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\TestWebApi\WebApi\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\TestWebApi\WebApi\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\TestWebApi\WebApi\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\TestWebApi\WebApi\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\TestWebApi\WebApi\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\TestWebApi\WebApi\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\TestWebApi\WebApi\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\TestWebApi\WebApi\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\TestWebApi\WebApi\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\TestWebApi\WebApi\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\TestWebApi\WebApi\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\TestWebApi\WebApi\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\TestWebApi\WebApi\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\TestWebApi\WebApi\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\TestWebApi\WebApi\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\TestWebApi\WebApi\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\TestWebApi\WebApi\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\TestWebApi\WebApi\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\TestWebApi\WebApi\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\TestWebApi\WebApi\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\TestWebApi\WebApi\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\TestWebApi\WebApi\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\TestWebApi\WebApi\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\TestWebApi\WebApi\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\TestWebApi\WebApi\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\TestWebApi\WebApi\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\TestWebApi\WebApi\bin\Debug\net5.0\Application.dll
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\TestWebApi\WebApi\bin\Debug\net5.0\Domain.dll
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\TestWebApi\WebApi\bin\Debug\net5.0\Infrastructure.Identity.dll
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\TestWebApi\WebApi\bin\Debug\net5.0\Infrastructure.Persistence.dll
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\TestWebApi\WebApi\bin\Debug\net5.0\Infrastructure.Shared.dll
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\TestWebApi\WebApi\bin\Debug\net5.0\Application.pdb
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\TestWebApi\WebApi\bin\Debug\net5.0\Infrastructure.Identity.pdb
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\TestWebApi\WebApi\bin\Debug\net5.0\Infrastructure.Persistence.pdb
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\TestWebApi\WebApi\bin\Debug\net5.0\Infrastructure.Shared.pdb
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\TestWebApi\WebApi\bin\Debug\net5.0\Domain.pdb
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\TestWebApi\WebApi\obj\Debug\net5.0\WebApi.csprojAssemblyReference.cache
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\TestWebApi\WebApi\obj\Debug\net5.0\WebApi.GeneratedMSBuildEditorConfig.editorconfig
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\TestWebApi\WebApi\obj\Debug\net5.0\WebApi.AssemblyInfoInputs.cache
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\TestWebApi\WebApi\obj\Debug\net5.0\WebApi.AssemblyInfo.cs
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\TestWebApi\WebApi\obj\Debug\net5.0\WebApi.csproj.CoreCompileInputs.cache
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\TestWebApi\WebApi\obj\Debug\net5.0\WebApi.MvcApplicationPartsAssemblyInfo.cs
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\TestWebApi\WebApi\obj\Debug\net5.0\WebApi.MvcApplicationPartsAssemblyInfo.cache
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\TestWebApi\WebApi\obj\Debug\net5.0\staticwebassets\WebApi.StaticWebAssets.Manifest.cache
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\TestWebApi\WebApi\obj\Debug\net5.0\staticwebassets\WebApi.StaticWebAssets.xml
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\TestWebApi\WebApi\obj\Debug\net5.0\scopedcss\bundle\WebApi.styles.css
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\TestWebApi\WebApi\obj\Debug\net5.0\WebApi.RazorTargetAssemblyInfo.cache
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\TestWebApi\WebApi\obj\Debug\net5.0\WebApi.csproj.CopyComplete
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\TestWebApi\WebApi\obj\Debug\net5.0\WebApi.dll
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\TestWebApi\WebApi\obj\Debug\net5.0\ref\WebApi.dll
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\TestWebApi\WebApi\obj\Debug\net5.0\WebApi.pdb
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\TestWebApi\WebApi\obj\Debug\net5.0\WebApi.genruntimeconfig.cache
+D:\Running-Office-Projects\HrpProject\HrpAdminApi\WebApi\bin\Debug\net5.0\appsettings.json
+D:\Running-Office-Projects\HrpProject\HrpAdminApi\WebApi\bin\Debug\net5.0\WebApi.exe
+D:\Running-Office-Projects\HrpProject\HrpAdminApi\WebApi\bin\Debug\net5.0\WebApi.deps.json
+D:\Running-Office-Projects\HrpProject\HrpAdminApi\WebApi\bin\Debug\net5.0\WebApi.runtimeconfig.json
+D:\Running-Office-Projects\HrpProject\HrpAdminApi\WebApi\bin\Debug\net5.0\WebApi.runtimeconfig.dev.json
+D:\Running-Office-Projects\HrpProject\HrpAdminApi\WebApi\bin\Debug\net5.0\WebApi.dll
+D:\Running-Office-Projects\HrpProject\HrpAdminApi\WebApi\bin\Debug\net5.0\ref\WebApi.dll
+D:\Running-Office-Projects\HrpProject\HrpAdminApi\WebApi\bin\Debug\net5.0\WebApi.pdb
+D:\Running-Office-Projects\HrpProject\HrpAdminApi\WebApi\bin\Debug\net5.0\CleanArchitecture.WebApi.xml
+D:\Running-Office-Projects\HrpProject\HrpAdminApi\WebApi\bin\Debug\net5.0\AutoMapper.dll
+D:\Running-Office-Projects\HrpProject\HrpAdminApi\WebApi\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\Running-Office-Projects\HrpProject\HrpAdminApi\WebApi\bin\Debug\net5.0\FluentValidation.dll
+D:\Running-Office-Projects\HrpProject\HrpAdminApi\WebApi\bin\Debug\net5.0\FluentValidation.AspNetCore.dll
+D:\Running-Office-Projects\HrpProject\HrpAdminApi\WebApi\bin\Debug\net5.0\FluentValidation.DependencyInjectionExtensions.dll
+D:\Running-Office-Projects\HrpProject\HrpAdminApi\WebApi\bin\Debug\net5.0\Humanizer.dll
+D:\Running-Office-Projects\HrpProject\HrpAdminApi\WebApi\bin\Debug\net5.0\MailKit.dll
+D:\Running-Office-Projects\HrpProject\HrpAdminApi\WebApi\bin\Debug\net5.0\MediatR.dll
+D:\Running-Office-Projects\HrpProject\HrpAdminApi\WebApi\bin\Debug\net5.0\MediatR.Extensions.Microsoft.DependencyInjection.dll
+D:\Running-Office-Projects\HrpProject\HrpAdminApi\WebApi\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Running-Office-Projects\HrpProject\HrpAdminApi\WebApi\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\Running-Office-Projects\HrpProject\HrpAdminApi\WebApi\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\Running-Office-Projects\HrpProject\HrpAdminApi\WebApi\bin\Debug\net5.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+D:\Running-Office-Projects\HrpProject\HrpAdminApi\WebApi\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\Running-Office-Projects\HrpProject\HrpAdminApi\WebApi\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\Running-Office-Projects\HrpProject\HrpAdminApi\WebApi\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\Running-Office-Projects\HrpProject\HrpAdminApi\WebApi\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.Versioning.dll
+D:\Running-Office-Projects\HrpProject\HrpAdminApi\WebApi\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\Running-Office-Projects\HrpProject\HrpAdminApi\WebApi\bin\Debug\net5.0\Microsoft.Azure.Services.AppAuthentication.dll
+D:\Running-Office-Projects\HrpProject\HrpAdminApi\WebApi\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Running-Office-Projects\HrpProject\HrpAdminApi\WebApi\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+D:\Running-Office-Projects\HrpProject\HrpAdminApi\WebApi\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Running-Office-Projects\HrpProject\HrpAdminApi\WebApi\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Running-Office-Projects\HrpProject\HrpAdminApi\WebApi\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+D:\Running-Office-Projects\HrpProject\HrpAdminApi\WebApi\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Running-Office-Projects\HrpProject\HrpAdminApi\WebApi\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\Running-Office-Projects\HrpProject\HrpAdminApi\WebApi\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+D:\Running-Office-Projects\HrpProject\HrpAdminApi\WebApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\Running-Office-Projects\HrpProject\HrpAdminApi\WebApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Running-Office-Projects\HrpProject\HrpAdminApi\WebApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Running-Office-Projects\HrpProject\HrpAdminApi\WebApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.InMemory.dll
+D:\Running-Office-Projects\HrpProject\HrpAdminApi\WebApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Running-Office-Projects\HrpProject\HrpAdminApi\WebApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Running-Office-Projects\HrpProject\HrpAdminApi\WebApi\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Running-Office-Projects\HrpProject\HrpAdminApi\WebApi\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+D:\Running-Office-Projects\HrpProject\HrpAdminApi\WebApi\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+D:\Running-Office-Projects\HrpProject\HrpAdminApi\WebApi\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+D:\Running-Office-Projects\HrpProject\HrpAdminApi\WebApi\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\Running-Office-Projects\HrpProject\HrpAdminApi\WebApi\bin\Debug\net5.0\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+D:\Running-Office-Projects\HrpProject\HrpAdminApi\WebApi\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Running-Office-Projects\HrpProject\HrpAdminApi\WebApi\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\Running-Office-Projects\HrpProject\HrpAdminApi\WebApi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\Running-Office-Projects\HrpProject\HrpAdminApi\WebApi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Running-Office-Projects\HrpProject\HrpAdminApi\WebApi\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\Running-Office-Projects\HrpProject\HrpAdminApi\WebApi\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\Running-Office-Projects\HrpProject\HrpAdminApi\WebApi\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Running-Office-Projects\HrpProject\HrpAdminApi\WebApi\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\Running-Office-Projects\HrpProject\HrpAdminApi\WebApi\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Running-Office-Projects\HrpProject\HrpAdminApi\WebApi\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+D:\Running-Office-Projects\HrpProject\HrpAdminApi\WebApi\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Running-Office-Projects\HrpProject\HrpAdminApi\WebApi\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Running-Office-Projects\HrpProject\HrpAdminApi\WebApi\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Running-Office-Projects\HrpProject\HrpAdminApi\WebApi\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Running-Office-Projects\HrpProject\HrpAdminApi\WebApi\bin\Debug\net5.0\MimeKit.dll
+D:\Running-Office-Projects\HrpProject\HrpAdminApi\WebApi\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\Running-Office-Projects\HrpProject\HrpAdminApi\WebApi\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+D:\Running-Office-Projects\HrpProject\HrpAdminApi\WebApi\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+D:\Running-Office-Projects\HrpProject\HrpAdminApi\WebApi\bin\Debug\net5.0\Serilog.dll
+D:\Running-Office-Projects\HrpProject\HrpAdminApi\WebApi\bin\Debug\net5.0\Serilog.AspNetCore.dll
+D:\Running-Office-Projects\HrpProject\HrpAdminApi\WebApi\bin\Debug\net5.0\Serilog.Enrichers.Environment.dll
+D:\Running-Office-Projects\HrpProject\HrpAdminApi\WebApi\bin\Debug\net5.0\Serilog.Enrichers.Process.dll
+D:\Running-Office-Projects\HrpProject\HrpAdminApi\WebApi\bin\Debug\net5.0\Serilog.Enrichers.Thread.dll
+D:\Running-Office-Projects\HrpProject\HrpAdminApi\WebApi\bin\Debug\net5.0\Serilog.Extensions.Hosting.dll
+D:\Running-Office-Projects\HrpProject\HrpAdminApi\WebApi\bin\Debug\net5.0\Serilog.Extensions.Logging.dll
+D:\Running-Office-Projects\HrpProject\HrpAdminApi\WebApi\bin\Debug\net5.0\Serilog.Formatting.Compact.dll
+D:\Running-Office-Projects\HrpProject\HrpAdminApi\WebApi\bin\Debug\net5.0\Serilog.Settings.Configuration.dll
+D:\Running-Office-Projects\HrpProject\HrpAdminApi\WebApi\bin\Debug\net5.0\Serilog.Sinks.Console.dll
+D:\Running-Office-Projects\HrpProject\HrpAdminApi\WebApi\bin\Debug\net5.0\Serilog.Sinks.Debug.dll
+D:\Running-Office-Projects\HrpProject\HrpAdminApi\WebApi\bin\Debug\net5.0\Serilog.Sinks.File.dll
+D:\Running-Office-Projects\HrpProject\HrpAdminApi\WebApi\bin\Debug\net5.0\Serilog.Sinks.MSSqlServer.dll
+D:\Running-Office-Projects\HrpProject\HrpAdminApi\WebApi\bin\Debug\net5.0\Serilog.Sinks.PeriodicBatching.dll
+D:\Running-Office-Projects\HrpProject\HrpAdminApi\WebApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Running-Office-Projects\HrpProject\HrpAdminApi\WebApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Running-Office-Projects\HrpProject\HrpAdminApi\WebApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Running-Office-Projects\HrpProject\HrpAdminApi\WebApi\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+D:\Running-Office-Projects\HrpProject\HrpAdminApi\WebApi\bin\Debug\net5.0\System.Composition.Convention.dll
+D:\Running-Office-Projects\HrpProject\HrpAdminApi\WebApi\bin\Debug\net5.0\System.Composition.Hosting.dll
+D:\Running-Office-Projects\HrpProject\HrpAdminApi\WebApi\bin\Debug\net5.0\System.Composition.Runtime.dll
+D:\Running-Office-Projects\HrpProject\HrpAdminApi\WebApi\bin\Debug\net5.0\System.Composition.TypedParts.dll
+D:\Running-Office-Projects\HrpProject\HrpAdminApi\WebApi\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\Running-Office-Projects\HrpProject\HrpAdminApi\WebApi\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\Running-Office-Projects\HrpProject\HrpAdminApi\WebApi\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Running-Office-Projects\HrpProject\HrpAdminApi\WebApi\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\Running-Office-Projects\HrpProject\HrpAdminApi\WebApi\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\Running-Office-Projects\HrpProject\HrpAdminApi\WebApi\bin\Debug\net5.0\System.Text.Json.dll
+D:\Running-Office-Projects\HrpProject\HrpAdminApi\WebApi\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Running-Office-Projects\HrpProject\HrpAdminApi\WebApi\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Running-Office-Projects\HrpProject\HrpAdminApi\WebApi\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Running-Office-Projects\HrpProject\HrpAdminApi\WebApi\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Running-Office-Projects\HrpProject\HrpAdminApi\WebApi\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Running-Office-Projects\HrpProject\HrpAdminApi\WebApi\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Running-Office-Projects\HrpProject\HrpAdminApi\WebApi\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Running-Office-Projects\HrpProject\HrpAdminApi\WebApi\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Running-Office-Projects\HrpProject\HrpAdminApi\WebApi\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Running-Office-Projects\HrpProject\HrpAdminApi\WebApi\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Running-Office-Projects\HrpProject\HrpAdminApi\WebApi\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Running-Office-Projects\HrpProject\HrpAdminApi\WebApi\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Running-Office-Projects\HrpProject\HrpAdminApi\WebApi\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Running-Office-Projects\HrpProject\HrpAdminApi\WebApi\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Running-Office-Projects\HrpProject\HrpAdminApi\WebApi\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Running-Office-Projects\HrpProject\HrpAdminApi\WebApi\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Running-Office-Projects\HrpProject\HrpAdminApi\WebApi\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Running-Office-Projects\HrpProject\HrpAdminApi\WebApi\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Running-Office-Projects\HrpProject\HrpAdminApi\WebApi\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Running-Office-Projects\HrpProject\HrpAdminApi\WebApi\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Running-Office-Projects\HrpProject\HrpAdminApi\WebApi\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Running-Office-Projects\HrpProject\HrpAdminApi\WebApi\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Running-Office-Projects\HrpProject\HrpAdminApi\WebApi\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Running-Office-Projects\HrpProject\HrpAdminApi\WebApi\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Running-Office-Projects\HrpProject\HrpAdminApi\WebApi\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Running-Office-Projects\HrpProject\HrpAdminApi\WebApi\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Running-Office-Projects\HrpProject\HrpAdminApi\WebApi\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Running-Office-Projects\HrpProject\HrpAdminApi\WebApi\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Running-Office-Projects\HrpProject\HrpAdminApi\WebApi\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Running-Office-Projects\HrpProject\HrpAdminApi\WebApi\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Running-Office-Projects\HrpProject\HrpAdminApi\WebApi\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Running-Office-Projects\HrpProject\HrpAdminApi\WebApi\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Running-Office-Projects\HrpProject\HrpAdminApi\WebApi\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Running-Office-Projects\HrpProject\HrpAdminApi\WebApi\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Running-Office-Projects\HrpProject\HrpAdminApi\WebApi\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Running-Office-Projects\HrpProject\HrpAdminApi\WebApi\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Running-Office-Projects\HrpProject\HrpAdminApi\WebApi\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Running-Office-Projects\HrpProject\HrpAdminApi\WebApi\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Running-Office-Projects\HrpProject\HrpAdminApi\WebApi\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Running-Office-Projects\HrpProject\HrpAdminApi\WebApi\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Running-Office-Projects\HrpProject\HrpAdminApi\WebApi\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Running-Office-Projects\HrpProject\HrpAdminApi\WebApi\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Running-Office-Projects\HrpProject\HrpAdminApi\WebApi\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Running-Office-Projects\HrpProject\HrpAdminApi\WebApi\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Running-Office-Projects\HrpProject\HrpAdminApi\WebApi\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Running-Office-Projects\HrpProject\HrpAdminApi\WebApi\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Running-Office-Projects\HrpProject\HrpAdminApi\WebApi\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Running-Office-Projects\HrpProject\HrpAdminApi\WebApi\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Running-Office-Projects\HrpProject\HrpAdminApi\WebApi\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Running-Office-Projects\HrpProject\HrpAdminApi\WebApi\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Running-Office-Projects\HrpProject\HrpAdminApi\WebApi\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Running-Office-Projects\HrpProject\HrpAdminApi\WebApi\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Running-Office-Projects\HrpProject\HrpAdminApi\WebApi\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Running-Office-Projects\HrpProject\HrpAdminApi\WebApi\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Running-Office-Projects\HrpProject\HrpAdminApi\WebApi\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Running-Office-Projects\HrpProject\HrpAdminApi\WebApi\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Running-Office-Projects\HrpProject\HrpAdminApi\WebApi\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Running-Office-Projects\HrpProject\HrpAdminApi\WebApi\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Running-Office-Projects\HrpProject\HrpAdminApi\WebApi\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Running-Office-Projects\HrpProject\HrpAdminApi\WebApi\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Running-Office-Projects\HrpProject\HrpAdminApi\WebApi\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Running-Office-Projects\HrpProject\HrpAdminApi\WebApi\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Running-Office-Projects\HrpProject\HrpAdminApi\WebApi\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\Running-Office-Projects\HrpProject\HrpAdminApi\WebApi\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\Running-Office-Projects\HrpProject\HrpAdminApi\WebApi\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Running-Office-Projects\HrpProject\HrpAdminApi\WebApi\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Running-Office-Projects\HrpProject\HrpAdminApi\WebApi\bin\Debug\net5.0\Application.dll
+D:\Running-Office-Projects\HrpProject\HrpAdminApi\WebApi\bin\Debug\net5.0\Domain.dll
+D:\Running-Office-Projects\HrpProject\HrpAdminApi\WebApi\bin\Debug\net5.0\Infrastructure.Identity.dll
+D:\Running-Office-Projects\HrpProject\HrpAdminApi\WebApi\bin\Debug\net5.0\Infrastructure.Persistence.dll
+D:\Running-Office-Projects\HrpProject\HrpAdminApi\WebApi\bin\Debug\net5.0\Infrastructure.Shared.dll
+D:\Running-Office-Projects\HrpProject\HrpAdminApi\WebApi\bin\Debug\net5.0\Application.pdb
+D:\Running-Office-Projects\HrpProject\HrpAdminApi\WebApi\bin\Debug\net5.0\Infrastructure.Identity.pdb
+D:\Running-Office-Projects\HrpProject\HrpAdminApi\WebApi\bin\Debug\net5.0\Infrastructure.Persistence.pdb
+D:\Running-Office-Projects\HrpProject\HrpAdminApi\WebApi\bin\Debug\net5.0\Infrastructure.Shared.pdb
+D:\Running-Office-Projects\HrpProject\HrpAdminApi\WebApi\bin\Debug\net5.0\Domain.pdb
+D:\Running-Office-Projects\HrpProject\HrpAdminApi\WebApi\obj\Debug\net5.0\WebApi.csprojAssemblyReference.cache
+D:\Running-Office-Projects\HrpProject\HrpAdminApi\WebApi\obj\Debug\net5.0\WebApi.GeneratedMSBuildEditorConfig.editorconfig
+D:\Running-Office-Projects\HrpProject\HrpAdminApi\WebApi\obj\Debug\net5.0\WebApi.AssemblyInfoInputs.cache
+D:\Running-Office-Projects\HrpProject\HrpAdminApi\WebApi\obj\Debug\net5.0\WebApi.AssemblyInfo.cs
+D:\Running-Office-Projects\HrpProject\HrpAdminApi\WebApi\obj\Debug\net5.0\WebApi.csproj.CoreCompileInputs.cache
+D:\Running-Office-Projects\HrpProject\HrpAdminApi\WebApi\obj\Debug\net5.0\WebApi.MvcApplicationPartsAssemblyInfo.cs
+D:\Running-Office-Projects\HrpProject\HrpAdminApi\WebApi\obj\Debug\net5.0\WebApi.MvcApplicationPartsAssemblyInfo.cache
+D:\Running-Office-Projects\HrpProject\HrpAdminApi\WebApi\obj\Debug\net5.0\staticwebassets\WebApi.StaticWebAssets.Manifest.cache
+D:\Running-Office-Projects\HrpProject\HrpAdminApi\WebApi\obj\Debug\net5.0\staticwebassets\WebApi.StaticWebAssets.xml
+D:\Running-Office-Projects\HrpProject\HrpAdminApi\WebApi\obj\Debug\net5.0\scopedcss\bundle\WebApi.styles.css
+D:\Running-Office-Projects\HrpProject\HrpAdminApi\WebApi\obj\Debug\net5.0\WebApi.RazorTargetAssemblyInfo.cache
+D:\Running-Office-Projects\HrpProject\HrpAdminApi\WebApi\obj\Debug\net5.0\WebApi.csproj.CopyComplete
+D:\Running-Office-Projects\HrpProject\HrpAdminApi\WebApi\obj\Debug\net5.0\WebApi.dll
+D:\Running-Office-Projects\HrpProject\HrpAdminApi\WebApi\obj\Debug\net5.0\ref\WebApi.dll
+D:\Running-Office-Projects\HrpProject\HrpAdminApi\WebApi\obj\Debug\net5.0\WebApi.pdb
+D:\Running-Office-Projects\HrpProject\HrpAdminApi\WebApi\obj\Debug\net5.0\WebApi.genruntimeconfig.cache
+D:\Running-Office-Projects\HrpProject\hrp-server-side\WebApi\bin\Debug\net5.0\appsettings.json
+D:\Running-Office-Projects\HrpProject\hrp-server-side\WebApi\bin\Debug\net5.0\WebApi.exe
+D:\Running-Office-Projects\HrpProject\hrp-server-side\WebApi\bin\Debug\net5.0\WebApi.deps.json
+D:\Running-Office-Projects\HrpProject\hrp-server-side\WebApi\bin\Debug\net5.0\WebApi.runtimeconfig.json
+D:\Running-Office-Projects\HrpProject\hrp-server-side\WebApi\bin\Debug\net5.0\WebApi.runtimeconfig.dev.json
+D:\Running-Office-Projects\HrpProject\hrp-server-side\WebApi\bin\Debug\net5.0\WebApi.dll
+D:\Running-Office-Projects\HrpProject\hrp-server-side\WebApi\bin\Debug\net5.0\ref\WebApi.dll
+D:\Running-Office-Projects\HrpProject\hrp-server-side\WebApi\bin\Debug\net5.0\WebApi.pdb
+D:\Running-Office-Projects\HrpProject\hrp-server-side\WebApi\bin\Debug\net5.0\CleanArchitecture.WebApi.xml
+D:\Running-Office-Projects\HrpProject\hrp-server-side\WebApi\bin\Debug\net5.0\AutoMapper.dll
+D:\Running-Office-Projects\HrpProject\hrp-server-side\WebApi\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\Running-Office-Projects\HrpProject\hrp-server-side\WebApi\bin\Debug\net5.0\FluentValidation.dll
+D:\Running-Office-Projects\HrpProject\hrp-server-side\WebApi\bin\Debug\net5.0\FluentValidation.AspNetCore.dll
+D:\Running-Office-Projects\HrpProject\hrp-server-side\WebApi\bin\Debug\net5.0\FluentValidation.DependencyInjectionExtensions.dll
+D:\Running-Office-Projects\HrpProject\hrp-server-side\WebApi\bin\Debug\net5.0\Humanizer.dll
+D:\Running-Office-Projects\HrpProject\hrp-server-side\WebApi\bin\Debug\net5.0\MailKit.dll
+D:\Running-Office-Projects\HrpProject\hrp-server-side\WebApi\bin\Debug\net5.0\MediatR.dll
+D:\Running-Office-Projects\HrpProject\hrp-server-side\WebApi\bin\Debug\net5.0\MediatR.Extensions.Microsoft.DependencyInjection.dll
+D:\Running-Office-Projects\HrpProject\hrp-server-side\WebApi\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Running-Office-Projects\HrpProject\hrp-server-side\WebApi\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\Running-Office-Projects\HrpProject\hrp-server-side\WebApi\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\Running-Office-Projects\HrpProject\hrp-server-side\WebApi\bin\Debug\net5.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+D:\Running-Office-Projects\HrpProject\hrp-server-side\WebApi\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\Running-Office-Projects\HrpProject\hrp-server-side\WebApi\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\Running-Office-Projects\HrpProject\hrp-server-side\WebApi\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\Running-Office-Projects\HrpProject\hrp-server-side\WebApi\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.Versioning.dll
+D:\Running-Office-Projects\HrpProject\hrp-server-side\WebApi\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\Running-Office-Projects\HrpProject\hrp-server-side\WebApi\bin\Debug\net5.0\Microsoft.Azure.Services.AppAuthentication.dll
+D:\Running-Office-Projects\HrpProject\hrp-server-side\WebApi\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Running-Office-Projects\HrpProject\hrp-server-side\WebApi\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+D:\Running-Office-Projects\HrpProject\hrp-server-side\WebApi\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Running-Office-Projects\HrpProject\hrp-server-side\WebApi\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Running-Office-Projects\HrpProject\hrp-server-side\WebApi\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+D:\Running-Office-Projects\HrpProject\hrp-server-side\WebApi\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Running-Office-Projects\HrpProject\hrp-server-side\WebApi\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\Running-Office-Projects\HrpProject\hrp-server-side\WebApi\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+D:\Running-Office-Projects\HrpProject\hrp-server-side\WebApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\Running-Office-Projects\HrpProject\hrp-server-side\WebApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Running-Office-Projects\HrpProject\hrp-server-side\WebApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Running-Office-Projects\HrpProject\hrp-server-side\WebApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.InMemory.dll
+D:\Running-Office-Projects\HrpProject\hrp-server-side\WebApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Running-Office-Projects\HrpProject\hrp-server-side\WebApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Running-Office-Projects\HrpProject\hrp-server-side\WebApi\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Running-Office-Projects\HrpProject\hrp-server-side\WebApi\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+D:\Running-Office-Projects\HrpProject\hrp-server-side\WebApi\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+D:\Running-Office-Projects\HrpProject\hrp-server-side\WebApi\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+D:\Running-Office-Projects\HrpProject\hrp-server-side\WebApi\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\Running-Office-Projects\HrpProject\hrp-server-side\WebApi\bin\Debug\net5.0\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+D:\Running-Office-Projects\HrpProject\hrp-server-side\WebApi\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Running-Office-Projects\HrpProject\hrp-server-side\WebApi\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\Running-Office-Projects\HrpProject\hrp-server-side\WebApi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\Running-Office-Projects\HrpProject\hrp-server-side\WebApi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Running-Office-Projects\HrpProject\hrp-server-side\WebApi\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\Running-Office-Projects\HrpProject\hrp-server-side\WebApi\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\Running-Office-Projects\HrpProject\hrp-server-side\WebApi\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Running-Office-Projects\HrpProject\hrp-server-side\WebApi\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\Running-Office-Projects\HrpProject\hrp-server-side\WebApi\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Running-Office-Projects\HrpProject\hrp-server-side\WebApi\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+D:\Running-Office-Projects\HrpProject\hrp-server-side\WebApi\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Running-Office-Projects\HrpProject\hrp-server-side\WebApi\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Running-Office-Projects\HrpProject\hrp-server-side\WebApi\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Running-Office-Projects\HrpProject\hrp-server-side\WebApi\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Running-Office-Projects\HrpProject\hrp-server-side\WebApi\bin\Debug\net5.0\MimeKit.dll
+D:\Running-Office-Projects\HrpProject\hrp-server-side\WebApi\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\Running-Office-Projects\HrpProject\hrp-server-side\WebApi\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+D:\Running-Office-Projects\HrpProject\hrp-server-side\WebApi\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+D:\Running-Office-Projects\HrpProject\hrp-server-side\WebApi\bin\Debug\net5.0\Serilog.dll
+D:\Running-Office-Projects\HrpProject\hrp-server-side\WebApi\bin\Debug\net5.0\Serilog.AspNetCore.dll
+D:\Running-Office-Projects\HrpProject\hrp-server-side\WebApi\bin\Debug\net5.0\Serilog.Enrichers.Environment.dll
+D:\Running-Office-Projects\HrpProject\hrp-server-side\WebApi\bin\Debug\net5.0\Serilog.Enrichers.Process.dll
+D:\Running-Office-Projects\HrpProject\hrp-server-side\WebApi\bin\Debug\net5.0\Serilog.Enrichers.Thread.dll
+D:\Running-Office-Projects\HrpProject\hrp-server-side\WebApi\bin\Debug\net5.0\Serilog.Extensions.Hosting.dll
+D:\Running-Office-Projects\HrpProject\hrp-server-side\WebApi\bin\Debug\net5.0\Serilog.Extensions.Logging.dll
+D:\Running-Office-Projects\HrpProject\hrp-server-side\WebApi\bin\Debug\net5.0\Serilog.Formatting.Compact.dll
+D:\Running-Office-Projects\HrpProject\hrp-server-side\WebApi\bin\Debug\net5.0\Serilog.Settings.Configuration.dll
+D:\Running-Office-Projects\HrpProject\hrp-server-side\WebApi\bin\Debug\net5.0\Serilog.Sinks.Console.dll
+D:\Running-Office-Projects\HrpProject\hrp-server-side\WebApi\bin\Debug\net5.0\Serilog.Sinks.Debug.dll
+D:\Running-Office-Projects\HrpProject\hrp-server-side\WebApi\bin\Debug\net5.0\Serilog.Sinks.File.dll
+D:\Running-Office-Projects\HrpProject\hrp-server-side\WebApi\bin\Debug\net5.0\Serilog.Sinks.MSSqlServer.dll
+D:\Running-Office-Projects\HrpProject\hrp-server-side\WebApi\bin\Debug\net5.0\Serilog.Sinks.PeriodicBatching.dll
+D:\Running-Office-Projects\HrpProject\hrp-server-side\WebApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Running-Office-Projects\HrpProject\hrp-server-side\WebApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Running-Office-Projects\HrpProject\hrp-server-side\WebApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Running-Office-Projects\HrpProject\hrp-server-side\WebApi\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+D:\Running-Office-Projects\HrpProject\hrp-server-side\WebApi\bin\Debug\net5.0\System.Composition.Convention.dll
+D:\Running-Office-Projects\HrpProject\hrp-server-side\WebApi\bin\Debug\net5.0\System.Composition.Hosting.dll
+D:\Running-Office-Projects\HrpProject\hrp-server-side\WebApi\bin\Debug\net5.0\System.Composition.Runtime.dll
+D:\Running-Office-Projects\HrpProject\hrp-server-side\WebApi\bin\Debug\net5.0\System.Composition.TypedParts.dll
+D:\Running-Office-Projects\HrpProject\hrp-server-side\WebApi\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\Running-Office-Projects\HrpProject\hrp-server-side\WebApi\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\Running-Office-Projects\HrpProject\hrp-server-side\WebApi\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Running-Office-Projects\HrpProject\hrp-server-side\WebApi\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\Running-Office-Projects\HrpProject\hrp-server-side\WebApi\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\Running-Office-Projects\HrpProject\hrp-server-side\WebApi\bin\Debug\net5.0\System.Text.Json.dll
+D:\Running-Office-Projects\HrpProject\hrp-server-side\WebApi\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Running-Office-Projects\HrpProject\hrp-server-side\WebApi\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Running-Office-Projects\HrpProject\hrp-server-side\WebApi\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Running-Office-Projects\HrpProject\hrp-server-side\WebApi\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Running-Office-Projects\HrpProject\hrp-server-side\WebApi\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Running-Office-Projects\HrpProject\hrp-server-side\WebApi\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Running-Office-Projects\HrpProject\hrp-server-side\WebApi\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Running-Office-Projects\HrpProject\hrp-server-side\WebApi\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Running-Office-Projects\HrpProject\hrp-server-side\WebApi\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Running-Office-Projects\HrpProject\hrp-server-side\WebApi\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Running-Office-Projects\HrpProject\hrp-server-side\WebApi\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Running-Office-Projects\HrpProject\hrp-server-side\WebApi\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Running-Office-Projects\HrpProject\hrp-server-side\WebApi\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Running-Office-Projects\HrpProject\hrp-server-side\WebApi\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Running-Office-Projects\HrpProject\hrp-server-side\WebApi\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Running-Office-Projects\HrpProject\hrp-server-side\WebApi\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Running-Office-Projects\HrpProject\hrp-server-side\WebApi\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Running-Office-Projects\HrpProject\hrp-server-side\WebApi\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Running-Office-Projects\HrpProject\hrp-server-side\WebApi\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Running-Office-Projects\HrpProject\hrp-server-side\WebApi\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Running-Office-Projects\HrpProject\hrp-server-side\WebApi\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Running-Office-Projects\HrpProject\hrp-server-side\WebApi\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Running-Office-Projects\HrpProject\hrp-server-side\WebApi\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Running-Office-Projects\HrpProject\hrp-server-side\WebApi\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Running-Office-Projects\HrpProject\hrp-server-side\WebApi\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Running-Office-Projects\HrpProject\hrp-server-side\WebApi\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Running-Office-Projects\HrpProject\hrp-server-side\WebApi\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Running-Office-Projects\HrpProject\hrp-server-side\WebApi\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Running-Office-Projects\HrpProject\hrp-server-side\WebApi\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Running-Office-Projects\HrpProject\hrp-server-side\WebApi\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Running-Office-Projects\HrpProject\hrp-server-side\WebApi\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Running-Office-Projects\HrpProject\hrp-server-side\WebApi\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Running-Office-Projects\HrpProject\hrp-server-side\WebApi\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Running-Office-Projects\HrpProject\hrp-server-side\WebApi\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Running-Office-Projects\HrpProject\hrp-server-side\WebApi\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Running-Office-Projects\HrpProject\hrp-server-side\WebApi\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Running-Office-Projects\HrpProject\hrp-server-side\WebApi\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Running-Office-Projects\HrpProject\hrp-server-side\WebApi\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Running-Office-Projects\HrpProject\hrp-server-side\WebApi\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Running-Office-Projects\HrpProject\hrp-server-side\WebApi\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Running-Office-Projects\HrpProject\hrp-server-side\WebApi\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Running-Office-Projects\HrpProject\hrp-server-side\WebApi\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Running-Office-Projects\HrpProject\hrp-server-side\WebApi\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Running-Office-Projects\HrpProject\hrp-server-side\WebApi\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Running-Office-Projects\HrpProject\hrp-server-side\WebApi\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Running-Office-Projects\HrpProject\hrp-server-side\WebApi\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Running-Office-Projects\HrpProject\hrp-server-side\WebApi\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Running-Office-Projects\HrpProject\hrp-server-side\WebApi\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Running-Office-Projects\HrpProject\hrp-server-side\WebApi\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Running-Office-Projects\HrpProject\hrp-server-side\WebApi\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Running-Office-Projects\HrpProject\hrp-server-side\WebApi\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Running-Office-Projects\HrpProject\hrp-server-side\WebApi\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Running-Office-Projects\HrpProject\hrp-server-side\WebApi\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Running-Office-Projects\HrpProject\hrp-server-side\WebApi\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Running-Office-Projects\HrpProject\hrp-server-side\WebApi\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Running-Office-Projects\HrpProject\hrp-server-side\WebApi\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Running-Office-Projects\HrpProject\hrp-server-side\WebApi\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Running-Office-Projects\HrpProject\hrp-server-side\WebApi\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Running-Office-Projects\HrpProject\hrp-server-side\WebApi\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Running-Office-Projects\HrpProject\hrp-server-side\WebApi\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Running-Office-Projects\HrpProject\hrp-server-side\WebApi\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Running-Office-Projects\HrpProject\hrp-server-side\WebApi\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Running-Office-Projects\HrpProject\hrp-server-side\WebApi\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\Running-Office-Projects\HrpProject\hrp-server-side\WebApi\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\Running-Office-Projects\HrpProject\hrp-server-side\WebApi\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Running-Office-Projects\HrpProject\hrp-server-side\WebApi\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Running-Office-Projects\HrpProject\hrp-server-side\WebApi\bin\Debug\net5.0\Application.dll
+D:\Running-Office-Projects\HrpProject\hrp-server-side\WebApi\bin\Debug\net5.0\Domain.dll
+D:\Running-Office-Projects\HrpProject\hrp-server-side\WebApi\bin\Debug\net5.0\Infrastructure.Identity.dll
+D:\Running-Office-Projects\HrpProject\hrp-server-side\WebApi\bin\Debug\net5.0\Infrastructure.Persistence.dll
+D:\Running-Office-Projects\HrpProject\hrp-server-side\WebApi\bin\Debug\net5.0\Infrastructure.Shared.dll
+D:\Running-Office-Projects\HrpProject\hrp-server-side\WebApi\bin\Debug\net5.0\Application.pdb
+D:\Running-Office-Projects\HrpProject\hrp-server-side\WebApi\bin\Debug\net5.0\Infrastructure.Identity.pdb
+D:\Running-Office-Projects\HrpProject\hrp-server-side\WebApi\bin\Debug\net5.0\Infrastructure.Persistence.pdb
+D:\Running-Office-Projects\HrpProject\hrp-server-side\WebApi\bin\Debug\net5.0\Infrastructure.Shared.pdb
+D:\Running-Office-Projects\HrpProject\hrp-server-side\WebApi\bin\Debug\net5.0\Domain.pdb
+D:\Running-Office-Projects\HrpProject\hrp-server-side\WebApi\obj\Debug\net5.0\WebApi.csprojAssemblyReference.cache
+D:\Running-Office-Projects\HrpProject\hrp-server-side\WebApi\obj\Debug\net5.0\WebApi.GeneratedMSBuildEditorConfig.editorconfig
+D:\Running-Office-Projects\HrpProject\hrp-server-side\WebApi\obj\Debug\net5.0\WebApi.AssemblyInfoInputs.cache
+D:\Running-Office-Projects\HrpProject\hrp-server-side\WebApi\obj\Debug\net5.0\WebApi.AssemblyInfo.cs
+D:\Running-Office-Projects\HrpProject\hrp-server-side\WebApi\obj\Debug\net5.0\WebApi.csproj.CoreCompileInputs.cache
+D:\Running-Office-Projects\HrpProject\hrp-server-side\WebApi\obj\Debug\net5.0\WebApi.MvcApplicationPartsAssemblyInfo.cs
+D:\Running-Office-Projects\HrpProject\hrp-server-side\WebApi\obj\Debug\net5.0\WebApi.MvcApplicationPartsAssemblyInfo.cache
+D:\Running-Office-Projects\HrpProject\hrp-server-side\WebApi\obj\Debug\net5.0\staticwebassets\WebApi.StaticWebAssets.Manifest.cache
+D:\Running-Office-Projects\HrpProject\hrp-server-side\WebApi\obj\Debug\net5.0\staticwebassets\WebApi.StaticWebAssets.xml
+D:\Running-Office-Projects\HrpProject\hrp-server-side\WebApi\obj\Debug\net5.0\scopedcss\bundle\WebApi.styles.css
+D:\Running-Office-Projects\HrpProject\hrp-server-side\WebApi\obj\Debug\net5.0\WebApi.RazorTargetAssemblyInfo.cache
+D:\Running-Office-Projects\HrpProject\hrp-server-side\WebApi\obj\Debug\net5.0\WebApi.csproj.CopyComplete
+D:\Running-Office-Projects\HrpProject\hrp-server-side\WebApi\obj\Debug\net5.0\WebApi.dll
+D:\Running-Office-Projects\HrpProject\hrp-server-side\WebApi\obj\Debug\net5.0\ref\WebApi.dll
+D:\Running-Office-Projects\HrpProject\hrp-server-side\WebApi\obj\Debug\net5.0\WebApi.pdb
+D:\Running-Office-Projects\HrpProject\hrp-server-side\WebApi\obj\Debug\net5.0\WebApi.genruntimeconfig.cache
+D:\HrpProjectBackup\Local Backup HrpProject\HrpProject\hrp-server-side\WebApi\bin\Debug\net5.0\appsettings.json
+D:\HrpProjectBackup\Local Backup HrpProject\HrpProject\hrp-server-side\WebApi\bin\Debug\net5.0\WebApi.exe
+D:\HrpProjectBackup\Local Backup HrpProject\HrpProject\hrp-server-side\WebApi\bin\Debug\net5.0\WebApi.deps.json
+D:\HrpProjectBackup\Local Backup HrpProject\HrpProject\hrp-server-side\WebApi\bin\Debug\net5.0\WebApi.runtimeconfig.json
+D:\HrpProjectBackup\Local Backup HrpProject\HrpProject\hrp-server-side\WebApi\bin\Debug\net5.0\WebApi.runtimeconfig.dev.json
+D:\HrpProjectBackup\Local Backup HrpProject\HrpProject\hrp-server-side\WebApi\bin\Debug\net5.0\WebApi.dll
+D:\HrpProjectBackup\Local Backup HrpProject\HrpProject\hrp-server-side\WebApi\bin\Debug\net5.0\ref\WebApi.dll
+D:\HrpProjectBackup\Local Backup HrpProject\HrpProject\hrp-server-side\WebApi\bin\Debug\net5.0\WebApi.pdb
+D:\HrpProjectBackup\Local Backup HrpProject\HrpProject\hrp-server-side\WebApi\bin\Debug\net5.0\CleanArchitecture.WebApi.xml
+D:\HrpProjectBackup\Local Backup HrpProject\HrpProject\hrp-server-side\WebApi\bin\Debug\net5.0\AutoMapper.dll
+D:\HrpProjectBackup\Local Backup HrpProject\HrpProject\hrp-server-side\WebApi\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\HrpProjectBackup\Local Backup HrpProject\HrpProject\hrp-server-side\WebApi\bin\Debug\net5.0\FluentValidation.dll
+D:\HrpProjectBackup\Local Backup HrpProject\HrpProject\hrp-server-side\WebApi\bin\Debug\net5.0\FluentValidation.AspNetCore.dll
+D:\HrpProjectBackup\Local Backup HrpProject\HrpProject\hrp-server-side\WebApi\bin\Debug\net5.0\FluentValidation.DependencyInjectionExtensions.dll
+D:\HrpProjectBackup\Local Backup HrpProject\HrpProject\hrp-server-side\WebApi\bin\Debug\net5.0\Humanizer.dll
+D:\HrpProjectBackup\Local Backup HrpProject\HrpProject\hrp-server-side\WebApi\bin\Debug\net5.0\MailKit.dll
+D:\HrpProjectBackup\Local Backup HrpProject\HrpProject\hrp-server-side\WebApi\bin\Debug\net5.0\MediatR.dll
+D:\HrpProjectBackup\Local Backup HrpProject\HrpProject\hrp-server-side\WebApi\bin\Debug\net5.0\MediatR.Extensions.Microsoft.DependencyInjection.dll
+D:\HrpProjectBackup\Local Backup HrpProject\HrpProject\hrp-server-side\WebApi\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\HrpProjectBackup\Local Backup HrpProject\HrpProject\hrp-server-side\WebApi\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\HrpProjectBackup\Local Backup HrpProject\HrpProject\hrp-server-side\WebApi\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\HrpProjectBackup\Local Backup HrpProject\HrpProject\hrp-server-side\WebApi\bin\Debug\net5.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+D:\HrpProjectBackup\Local Backup HrpProject\HrpProject\hrp-server-side\WebApi\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\HrpProjectBackup\Local Backup HrpProject\HrpProject\hrp-server-side\WebApi\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\HrpProjectBackup\Local Backup HrpProject\HrpProject\hrp-server-side\WebApi\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\HrpProjectBackup\Local Backup HrpProject\HrpProject\hrp-server-side\WebApi\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.Versioning.dll
+D:\HrpProjectBackup\Local Backup HrpProject\HrpProject\hrp-server-side\WebApi\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\HrpProjectBackup\Local Backup HrpProject\HrpProject\hrp-server-side\WebApi\bin\Debug\net5.0\Microsoft.Azure.Services.AppAuthentication.dll
+D:\HrpProjectBackup\Local Backup HrpProject\HrpProject\hrp-server-side\WebApi\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\HrpProjectBackup\Local Backup HrpProject\HrpProject\hrp-server-side\WebApi\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+D:\HrpProjectBackup\Local Backup HrpProject\HrpProject\hrp-server-side\WebApi\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\HrpProjectBackup\Local Backup HrpProject\HrpProject\hrp-server-side\WebApi\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\HrpProjectBackup\Local Backup HrpProject\HrpProject\hrp-server-side\WebApi\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+D:\HrpProjectBackup\Local Backup HrpProject\HrpProject\hrp-server-side\WebApi\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\HrpProjectBackup\Local Backup HrpProject\HrpProject\hrp-server-side\WebApi\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\HrpProjectBackup\Local Backup HrpProject\HrpProject\hrp-server-side\WebApi\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+D:\HrpProjectBackup\Local Backup HrpProject\HrpProject\hrp-server-side\WebApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\HrpProjectBackup\Local Backup HrpProject\HrpProject\hrp-server-side\WebApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\HrpProjectBackup\Local Backup HrpProject\HrpProject\hrp-server-side\WebApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\HrpProjectBackup\Local Backup HrpProject\HrpProject\hrp-server-side\WebApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.InMemory.dll
+D:\HrpProjectBackup\Local Backup HrpProject\HrpProject\hrp-server-side\WebApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\HrpProjectBackup\Local Backup HrpProject\HrpProject\hrp-server-side\WebApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\HrpProjectBackup\Local Backup HrpProject\HrpProject\hrp-server-side\WebApi\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\HrpProjectBackup\Local Backup HrpProject\HrpProject\hrp-server-side\WebApi\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+D:\HrpProjectBackup\Local Backup HrpProject\HrpProject\hrp-server-side\WebApi\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+D:\HrpProjectBackup\Local Backup HrpProject\HrpProject\hrp-server-side\WebApi\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+D:\HrpProjectBackup\Local Backup HrpProject\HrpProject\hrp-server-side\WebApi\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\HrpProjectBackup\Local Backup HrpProject\HrpProject\hrp-server-side\WebApi\bin\Debug\net5.0\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+D:\HrpProjectBackup\Local Backup HrpProject\HrpProject\hrp-server-side\WebApi\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\HrpProjectBackup\Local Backup HrpProject\HrpProject\hrp-server-side\WebApi\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\HrpProjectBackup\Local Backup HrpProject\HrpProject\hrp-server-side\WebApi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\HrpProjectBackup\Local Backup HrpProject\HrpProject\hrp-server-side\WebApi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\HrpProjectBackup\Local Backup HrpProject\HrpProject\hrp-server-side\WebApi\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\HrpProjectBackup\Local Backup HrpProject\HrpProject\hrp-server-side\WebApi\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\HrpProjectBackup\Local Backup HrpProject\HrpProject\hrp-server-side\WebApi\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\HrpProjectBackup\Local Backup HrpProject\HrpProject\hrp-server-side\WebApi\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\HrpProjectBackup\Local Backup HrpProject\HrpProject\hrp-server-side\WebApi\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\HrpProjectBackup\Local Backup HrpProject\HrpProject\hrp-server-side\WebApi\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+D:\HrpProjectBackup\Local Backup HrpProject\HrpProject\hrp-server-side\WebApi\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\HrpProjectBackup\Local Backup HrpProject\HrpProject\hrp-server-side\WebApi\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\HrpProjectBackup\Local Backup HrpProject\HrpProject\hrp-server-side\WebApi\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\HrpProjectBackup\Local Backup HrpProject\HrpProject\hrp-server-side\WebApi\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\HrpProjectBackup\Local Backup HrpProject\HrpProject\hrp-server-side\WebApi\bin\Debug\net5.0\MimeKit.dll
+D:\HrpProjectBackup\Local Backup HrpProject\HrpProject\hrp-server-side\WebApi\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\HrpProjectBackup\Local Backup HrpProject\HrpProject\hrp-server-side\WebApi\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+D:\HrpProjectBackup\Local Backup HrpProject\HrpProject\hrp-server-side\WebApi\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+D:\HrpProjectBackup\Local Backup HrpProject\HrpProject\hrp-server-side\WebApi\bin\Debug\net5.0\Serilog.dll
+D:\HrpProjectBackup\Local Backup HrpProject\HrpProject\hrp-server-side\WebApi\bin\Debug\net5.0\Serilog.AspNetCore.dll
+D:\HrpProjectBackup\Local Backup HrpProject\HrpProject\hrp-server-side\WebApi\bin\Debug\net5.0\Serilog.Enrichers.Environment.dll
+D:\HrpProjectBackup\Local Backup HrpProject\HrpProject\hrp-server-side\WebApi\bin\Debug\net5.0\Serilog.Enrichers.Process.dll
+D:\HrpProjectBackup\Local Backup HrpProject\HrpProject\hrp-server-side\WebApi\bin\Debug\net5.0\Serilog.Enrichers.Thread.dll
+D:\HrpProjectBackup\Local Backup HrpProject\HrpProject\hrp-server-side\WebApi\bin\Debug\net5.0\Serilog.Extensions.Hosting.dll
+D:\HrpProjectBackup\Local Backup HrpProject\HrpProject\hrp-server-side\WebApi\bin\Debug\net5.0\Serilog.Extensions.Logging.dll
+D:\HrpProjectBackup\Local Backup HrpProject\HrpProject\hrp-server-side\WebApi\bin\Debug\net5.0\Serilog.Formatting.Compact.dll
+D:\HrpProjectBackup\Local Backup HrpProject\HrpProject\hrp-server-side\WebApi\bin\Debug\net5.0\Serilog.Settings.Configuration.dll
+D:\HrpProjectBackup\Local Backup HrpProject\HrpProject\hrp-server-side\WebApi\bin\Debug\net5.0\Serilog.Sinks.Console.dll
+D:\HrpProjectBackup\Local Backup HrpProject\HrpProject\hrp-server-side\WebApi\bin\Debug\net5.0\Serilog.Sinks.Debug.dll
+D:\HrpProjectBackup\Local Backup HrpProject\HrpProject\hrp-server-side\WebApi\bin\Debug\net5.0\Serilog.Sinks.File.dll
+D:\HrpProjectBackup\Local Backup HrpProject\HrpProject\hrp-server-side\WebApi\bin\Debug\net5.0\Serilog.Sinks.MSSqlServer.dll
+D:\HrpProjectBackup\Local Backup HrpProject\HrpProject\hrp-server-side\WebApi\bin\Debug\net5.0\Serilog.Sinks.PeriodicBatching.dll
+D:\HrpProjectBackup\Local Backup HrpProject\HrpProject\hrp-server-side\WebApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\HrpProjectBackup\Local Backup HrpProject\HrpProject\hrp-server-side\WebApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\HrpProjectBackup\Local Backup HrpProject\HrpProject\hrp-server-side\WebApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\HrpProjectBackup\Local Backup HrpProject\HrpProject\hrp-server-side\WebApi\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+D:\HrpProjectBackup\Local Backup HrpProject\HrpProject\hrp-server-side\WebApi\bin\Debug\net5.0\System.Composition.Convention.dll
+D:\HrpProjectBackup\Local Backup HrpProject\HrpProject\hrp-server-side\WebApi\bin\Debug\net5.0\System.Composition.Hosting.dll
+D:\HrpProjectBackup\Local Backup HrpProject\HrpProject\hrp-server-side\WebApi\bin\Debug\net5.0\System.Composition.Runtime.dll
+D:\HrpProjectBackup\Local Backup HrpProject\HrpProject\hrp-server-side\WebApi\bin\Debug\net5.0\System.Composition.TypedParts.dll
+D:\HrpProjectBackup\Local Backup HrpProject\HrpProject\hrp-server-side\WebApi\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\HrpProjectBackup\Local Backup HrpProject\HrpProject\hrp-server-side\WebApi\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\HrpProjectBackup\Local Backup HrpProject\HrpProject\hrp-server-side\WebApi\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\HrpProjectBackup\Local Backup HrpProject\HrpProject\hrp-server-side\WebApi\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\HrpProjectBackup\Local Backup HrpProject\HrpProject\hrp-server-side\WebApi\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\HrpProjectBackup\Local Backup HrpProject\HrpProject\hrp-server-side\WebApi\bin\Debug\net5.0\System.Text.Json.dll
+D:\HrpProjectBackup\Local Backup HrpProject\HrpProject\hrp-server-side\WebApi\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\HrpProjectBackup\Local Backup HrpProject\HrpProject\hrp-server-side\WebApi\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\HrpProjectBackup\Local Backup HrpProject\HrpProject\hrp-server-side\WebApi\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\HrpProjectBackup\Local Backup HrpProject\HrpProject\hrp-server-side\WebApi\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\HrpProjectBackup\Local Backup HrpProject\HrpProject\hrp-server-side\WebApi\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\HrpProjectBackup\Local Backup HrpProject\HrpProject\hrp-server-side\WebApi\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\HrpProjectBackup\Local Backup HrpProject\HrpProject\hrp-server-side\WebApi\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\HrpProjectBackup\Local Backup HrpProject\HrpProject\hrp-server-side\WebApi\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\HrpProjectBackup\Local Backup HrpProject\HrpProject\hrp-server-side\WebApi\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\HrpProjectBackup\Local Backup HrpProject\HrpProject\hrp-server-side\WebApi\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\HrpProjectBackup\Local Backup HrpProject\HrpProject\hrp-server-side\WebApi\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\HrpProjectBackup\Local Backup HrpProject\HrpProject\hrp-server-side\WebApi\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\HrpProjectBackup\Local Backup HrpProject\HrpProject\hrp-server-side\WebApi\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\HrpProjectBackup\Local Backup HrpProject\HrpProject\hrp-server-side\WebApi\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\HrpProjectBackup\Local Backup HrpProject\HrpProject\hrp-server-side\WebApi\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\HrpProjectBackup\Local Backup HrpProject\HrpProject\hrp-server-side\WebApi\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\HrpProjectBackup\Local Backup HrpProject\HrpProject\hrp-server-side\WebApi\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\HrpProjectBackup\Local Backup HrpProject\HrpProject\hrp-server-side\WebApi\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\HrpProjectBackup\Local Backup HrpProject\HrpProject\hrp-server-side\WebApi\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\HrpProjectBackup\Local Backup HrpProject\HrpProject\hrp-server-side\WebApi\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\HrpProjectBackup\Local Backup HrpProject\HrpProject\hrp-server-side\WebApi\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\HrpProjectBackup\Local Backup HrpProject\HrpProject\hrp-server-side\WebApi\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\HrpProjectBackup\Local Backup HrpProject\HrpProject\hrp-server-side\WebApi\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\HrpProjectBackup\Local Backup HrpProject\HrpProject\hrp-server-side\WebApi\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\HrpProjectBackup\Local Backup HrpProject\HrpProject\hrp-server-side\WebApi\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\HrpProjectBackup\Local Backup HrpProject\HrpProject\hrp-server-side\WebApi\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\HrpProjectBackup\Local Backup HrpProject\HrpProject\hrp-server-side\WebApi\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\HrpProjectBackup\Local Backup HrpProject\HrpProject\hrp-server-side\WebApi\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\HrpProjectBackup\Local Backup HrpProject\HrpProject\hrp-server-side\WebApi\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\HrpProjectBackup\Local Backup HrpProject\HrpProject\hrp-server-side\WebApi\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\HrpProjectBackup\Local Backup HrpProject\HrpProject\hrp-server-side\WebApi\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\HrpProjectBackup\Local Backup HrpProject\HrpProject\hrp-server-side\WebApi\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\HrpProjectBackup\Local Backup HrpProject\HrpProject\hrp-server-side\WebApi\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\HrpProjectBackup\Local Backup HrpProject\HrpProject\hrp-server-side\WebApi\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\HrpProjectBackup\Local Backup HrpProject\HrpProject\hrp-server-side\WebApi\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\HrpProjectBackup\Local Backup HrpProject\HrpProject\hrp-server-side\WebApi\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\HrpProjectBackup\Local Backup HrpProject\HrpProject\hrp-server-side\WebApi\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\HrpProjectBackup\Local Backup HrpProject\HrpProject\hrp-server-side\WebApi\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\HrpProjectBackup\Local Backup HrpProject\HrpProject\hrp-server-side\WebApi\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\HrpProjectBackup\Local Backup HrpProject\HrpProject\hrp-server-side\WebApi\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\HrpProjectBackup\Local Backup HrpProject\HrpProject\hrp-server-side\WebApi\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\HrpProjectBackup\Local Backup HrpProject\HrpProject\hrp-server-side\WebApi\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\HrpProjectBackup\Local Backup HrpProject\HrpProject\hrp-server-side\WebApi\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\HrpProjectBackup\Local Backup HrpProject\HrpProject\hrp-server-side\WebApi\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\HrpProjectBackup\Local Backup HrpProject\HrpProject\hrp-server-side\WebApi\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\HrpProjectBackup\Local Backup HrpProject\HrpProject\hrp-server-side\WebApi\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\HrpProjectBackup\Local Backup HrpProject\HrpProject\hrp-server-side\WebApi\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\HrpProjectBackup\Local Backup HrpProject\HrpProject\hrp-server-side\WebApi\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\HrpProjectBackup\Local Backup HrpProject\HrpProject\hrp-server-side\WebApi\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\HrpProjectBackup\Local Backup HrpProject\HrpProject\hrp-server-side\WebApi\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\HrpProjectBackup\Local Backup HrpProject\HrpProject\hrp-server-side\WebApi\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\HrpProjectBackup\Local Backup HrpProject\HrpProject\hrp-server-side\WebApi\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\HrpProjectBackup\Local Backup HrpProject\HrpProject\hrp-server-side\WebApi\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\HrpProjectBackup\Local Backup HrpProject\HrpProject\hrp-server-side\WebApi\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\HrpProjectBackup\Local Backup HrpProject\HrpProject\hrp-server-side\WebApi\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\HrpProjectBackup\Local Backup HrpProject\HrpProject\hrp-server-side\WebApi\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\HrpProjectBackup\Local Backup HrpProject\HrpProject\hrp-server-side\WebApi\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\HrpProjectBackup\Local Backup HrpProject\HrpProject\hrp-server-side\WebApi\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\HrpProjectBackup\Local Backup HrpProject\HrpProject\hrp-server-side\WebApi\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\HrpProjectBackup\Local Backup HrpProject\HrpProject\hrp-server-side\WebApi\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\HrpProjectBackup\Local Backup HrpProject\HrpProject\hrp-server-side\WebApi\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\HrpProjectBackup\Local Backup HrpProject\HrpProject\hrp-server-side\WebApi\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\HrpProjectBackup\Local Backup HrpProject\HrpProject\hrp-server-side\WebApi\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\HrpProjectBackup\Local Backup HrpProject\HrpProject\hrp-server-side\WebApi\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\HrpProjectBackup\Local Backup HrpProject\HrpProject\hrp-server-side\WebApi\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\HrpProjectBackup\Local Backup HrpProject\HrpProject\hrp-server-side\WebApi\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\HrpProjectBackup\Local Backup HrpProject\HrpProject\hrp-server-side\WebApi\bin\Debug\net5.0\Application.dll
+D:\HrpProjectBackup\Local Backup HrpProject\HrpProject\hrp-server-side\WebApi\bin\Debug\net5.0\Domain.dll
+D:\HrpProjectBackup\Local Backup HrpProject\HrpProject\hrp-server-side\WebApi\bin\Debug\net5.0\Infrastructure.Identity.dll
+D:\HrpProjectBackup\Local Backup HrpProject\HrpProject\hrp-server-side\WebApi\bin\Debug\net5.0\Infrastructure.Persistence.dll
+D:\HrpProjectBackup\Local Backup HrpProject\HrpProject\hrp-server-side\WebApi\bin\Debug\net5.0\Infrastructure.Shared.dll
+D:\HrpProjectBackup\Local Backup HrpProject\HrpProject\hrp-server-side\WebApi\bin\Debug\net5.0\Application.pdb
+D:\HrpProjectBackup\Local Backup HrpProject\HrpProject\hrp-server-side\WebApi\bin\Debug\net5.0\Infrastructure.Identity.pdb
+D:\HrpProjectBackup\Local Backup HrpProject\HrpProject\hrp-server-side\WebApi\bin\Debug\net5.0\Infrastructure.Persistence.pdb
+D:\HrpProjectBackup\Local Backup HrpProject\HrpProject\hrp-server-side\WebApi\bin\Debug\net5.0\Infrastructure.Shared.pdb
+D:\HrpProjectBackup\Local Backup HrpProject\HrpProject\hrp-server-side\WebApi\bin\Debug\net5.0\Domain.pdb
+D:\HrpProjectBackup\Local Backup HrpProject\HrpProject\hrp-server-side\WebApi\obj\Debug\net5.0\WebApi.csprojAssemblyReference.cache
+D:\HrpProjectBackup\Local Backup HrpProject\HrpProject\hrp-server-side\WebApi\obj\Debug\net5.0\WebApi.GeneratedMSBuildEditorConfig.editorconfig
+D:\HrpProjectBackup\Local Backup HrpProject\HrpProject\hrp-server-side\WebApi\obj\Debug\net5.0\WebApi.AssemblyInfoInputs.cache
+D:\HrpProjectBackup\Local Backup HrpProject\HrpProject\hrp-server-side\WebApi\obj\Debug\net5.0\WebApi.AssemblyInfo.cs
+D:\HrpProjectBackup\Local Backup HrpProject\HrpProject\hrp-server-side\WebApi\obj\Debug\net5.0\WebApi.csproj.CoreCompileInputs.cache
+D:\HrpProjectBackup\Local Backup HrpProject\HrpProject\hrp-server-side\WebApi\obj\Debug\net5.0\WebApi.MvcApplicationPartsAssemblyInfo.cs
+D:\HrpProjectBackup\Local Backup HrpProject\HrpProject\hrp-server-side\WebApi\obj\Debug\net5.0\WebApi.MvcApplicationPartsAssemblyInfo.cache
+D:\HrpProjectBackup\Local Backup HrpProject\HrpProject\hrp-server-side\WebApi\obj\Debug\net5.0\staticwebassets\WebApi.StaticWebAssets.Manifest.cache
+D:\HrpProjectBackup\Local Backup HrpProject\HrpProject\hrp-server-side\WebApi\obj\Debug\net5.0\staticwebassets\WebApi.StaticWebAssets.xml
+D:\HrpProjectBackup\Local Backup HrpProject\HrpProject\hrp-server-side\WebApi\obj\Debug\net5.0\scopedcss\bundle\WebApi.styles.css
+D:\HrpProjectBackup\Local Backup HrpProject\HrpProject\hrp-server-side\WebApi\obj\Debug\net5.0\WebApi.RazorTargetAssemblyInfo.cache
+D:\HrpProjectBackup\Local Backup HrpProject\HrpProject\hrp-server-side\WebApi\obj\Debug\net5.0\WebApi.csproj.CopyComplete
+D:\HrpProjectBackup\Local Backup HrpProject\HrpProject\hrp-server-side\WebApi\obj\Debug\net5.0\WebApi.dll
+D:\HrpProjectBackup\Local Backup HrpProject\HrpProject\hrp-server-side\WebApi\obj\Debug\net5.0\ref\WebApi.dll
+D:\HrpProjectBackup\Local Backup HrpProject\HrpProject\hrp-server-side\WebApi\obj\Debug\net5.0\WebApi.pdb
+D:\HrpProjectBackup\Local Backup HrpProject\HrpProject\hrp-server-side\WebApi\obj\Debug\net5.0\WebApi.genruntimeconfig.cache

@@ -1,0 +1,85 @@
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\CustomCleanArchitecureTemplate\Infrastructure.Persistence\bin\Debug\net5.0\Infrastructure.Persistence.deps.json
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\CustomCleanArchitecureTemplate\Infrastructure.Persistence\bin\Debug\net5.0\Infrastructure.Persistence.dll
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\CustomCleanArchitecureTemplate\Infrastructure.Persistence\bin\Debug\net5.0\ref\Infrastructure.Persistence.dll
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\CustomCleanArchitecureTemplate\Infrastructure.Persistence\bin\Debug\net5.0\Infrastructure.Persistence.pdb
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\CustomCleanArchitecureTemplate\Infrastructure.Persistence\bin\Debug\net5.0\Application.dll
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\CustomCleanArchitecureTemplate\Infrastructure.Persistence\bin\Debug\net5.0\Domain.dll
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\CustomCleanArchitecureTemplate\Infrastructure.Persistence\bin\Debug\net5.0\Application.pdb
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\CustomCleanArchitecureTemplate\Infrastructure.Persistence\bin\Debug\net5.0\Domain.pdb
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\CustomCleanArchitecureTemplate\Infrastructure.Persistence\obj\Debug\net5.0\Infrastructure.Persistence.csprojAssemblyReference.cache
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\CustomCleanArchitecureTemplate\Infrastructure.Persistence\obj\Debug\net5.0\Infrastructure.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\CustomCleanArchitecureTemplate\Infrastructure.Persistence\obj\Debug\net5.0\Infrastructure.Persistence.AssemblyInfoInputs.cache
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\CustomCleanArchitecureTemplate\Infrastructure.Persistence\obj\Debug\net5.0\Infrastructure.Persistence.AssemblyInfo.cs
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\CustomCleanArchitecureTemplate\Infrastructure.Persistence\obj\Debug\net5.0\Infrastructure.Persistence.csproj.CoreCompileInputs.cache
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\CustomCleanArchitecureTemplate\Infrastructure.Persistence\obj\Debug\net5.0\Infrastructure.Persistence.csproj.CopyComplete
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\CustomCleanArchitecureTemplate\Infrastructure.Persistence\obj\Debug\net5.0\Infrastructure.Persistence.dll
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\CustomCleanArchitecureTemplate\Infrastructure.Persistence\obj\Debug\net5.0\ref\Infrastructure.Persistence.dll
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\CustomCleanArchitecureTemplate\Infrastructure.Persistence\obj\Debug\net5.0\Infrastructure.Persistence.pdb
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\TestWebApi\Infrastructure.Persistence\bin\Debug\net5.0\Infrastructure.Persistence.deps.json
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\TestWebApi\Infrastructure.Persistence\bin\Debug\net5.0\Infrastructure.Persistence.dll
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\TestWebApi\Infrastructure.Persistence\bin\Debug\net5.0\ref\Infrastructure.Persistence.dll
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\TestWebApi\Infrastructure.Persistence\bin\Debug\net5.0\Infrastructure.Persistence.pdb
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\TestWebApi\Infrastructure.Persistence\bin\Debug\net5.0\Application.dll
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\TestWebApi\Infrastructure.Persistence\bin\Debug\net5.0\Domain.dll
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\TestWebApi\Infrastructure.Persistence\bin\Debug\net5.0\Application.pdb
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\TestWebApi\Infrastructure.Persistence\bin\Debug\net5.0\Domain.pdb
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\TestWebApi\Infrastructure.Persistence\obj\Debug\net5.0\Infrastructure.Persistence.csprojAssemblyReference.cache
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\TestWebApi\Infrastructure.Persistence\obj\Debug\net5.0\Infrastructure.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\TestWebApi\Infrastructure.Persistence\obj\Debug\net5.0\Infrastructure.Persistence.AssemblyInfoInputs.cache
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\TestWebApi\Infrastructure.Persistence\obj\Debug\net5.0\Infrastructure.Persistence.AssemblyInfo.cs
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\TestWebApi\Infrastructure.Persistence\obj\Debug\net5.0\Infrastructure.Persistence.csproj.CoreCompileInputs.cache
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\TestWebApi\Infrastructure.Persistence\obj\Debug\net5.0\Infrastructure.Persistence.csproj.CopyComplete
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\TestWebApi\Infrastructure.Persistence\obj\Debug\net5.0\Infrastructure.Persistence.dll
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\TestWebApi\Infrastructure.Persistence\obj\Debug\net5.0\ref\Infrastructure.Persistence.dll
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\TestWebApi\Infrastructure.Persistence\obj\Debug\net5.0\Infrastructure.Persistence.pdb
+D:\Running-Office-Projects\HrpProject\HrpAdminApi\Infrastructure.Persistence\bin\Debug\net5.0\Infrastructure.Persistence.deps.json
+D:\Running-Office-Projects\HrpProject\HrpAdminApi\Infrastructure.Persistence\bin\Debug\net5.0\Infrastructure.Persistence.dll
+D:\Running-Office-Projects\HrpProject\HrpAdminApi\Infrastructure.Persistence\bin\Debug\net5.0\ref\Infrastructure.Persistence.dll
+D:\Running-Office-Projects\HrpProject\HrpAdminApi\Infrastructure.Persistence\bin\Debug\net5.0\Infrastructure.Persistence.pdb
+D:\Running-Office-Projects\HrpProject\HrpAdminApi\Infrastructure.Persistence\bin\Debug\net5.0\Application.dll
+D:\Running-Office-Projects\HrpProject\HrpAdminApi\Infrastructure.Persistence\bin\Debug\net5.0\Domain.dll
+D:\Running-Office-Projects\HrpProject\HrpAdminApi\Infrastructure.Persistence\bin\Debug\net5.0\Application.pdb
+D:\Running-Office-Projects\HrpProject\HrpAdminApi\Infrastructure.Persistence\bin\Debug\net5.0\Domain.pdb
+D:\Running-Office-Projects\HrpProject\HrpAdminApi\Infrastructure.Persistence\obj\Debug\net5.0\Infrastructure.Persistence.csprojAssemblyReference.cache
+D:\Running-Office-Projects\HrpProject\HrpAdminApi\Infrastructure.Persistence\obj\Debug\net5.0\Infrastructure.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+D:\Running-Office-Projects\HrpProject\HrpAdminApi\Infrastructure.Persistence\obj\Debug\net5.0\Infrastructure.Persistence.AssemblyInfoInputs.cache
+D:\Running-Office-Projects\HrpProject\HrpAdminApi\Infrastructure.Persistence\obj\Debug\net5.0\Infrastructure.Persistence.AssemblyInfo.cs
+D:\Running-Office-Projects\HrpProject\HrpAdminApi\Infrastructure.Persistence\obj\Debug\net5.0\Infrastructure.Persistence.csproj.CoreCompileInputs.cache
+D:\Running-Office-Projects\HrpProject\HrpAdminApi\Infrastructure.Persistence\obj\Debug\net5.0\Infrastructure.Persistence.csproj.CopyComplete
+D:\Running-Office-Projects\HrpProject\HrpAdminApi\Infrastructure.Persistence\obj\Debug\net5.0\Infrastructure.Persistence.dll
+D:\Running-Office-Projects\HrpProject\HrpAdminApi\Infrastructure.Persistence\obj\Debug\net5.0\ref\Infrastructure.Persistence.dll
+D:\Running-Office-Projects\HrpProject\HrpAdminApi\Infrastructure.Persistence\obj\Debug\net5.0\Infrastructure.Persistence.pdb
+D:\Running-Office-Projects\HrpProject\hrp-server-side\Infrastructure.Persistence\bin\Debug\net5.0\Infrastructure.Persistence.deps.json
+D:\Running-Office-Projects\HrpProject\hrp-server-side\Infrastructure.Persistence\bin\Debug\net5.0\Infrastructure.Persistence.dll
+D:\Running-Office-Projects\HrpProject\hrp-server-side\Infrastructure.Persistence\bin\Debug\net5.0\ref\Infrastructure.Persistence.dll
+D:\Running-Office-Projects\HrpProject\hrp-server-side\Infrastructure.Persistence\bin\Debug\net5.0\Infrastructure.Persistence.pdb
+D:\Running-Office-Projects\HrpProject\hrp-server-side\Infrastructure.Persistence\bin\Debug\net5.0\Application.dll
+D:\Running-Office-Projects\HrpProject\hrp-server-side\Infrastructure.Persistence\bin\Debug\net5.0\Domain.dll
+D:\Running-Office-Projects\HrpProject\hrp-server-side\Infrastructure.Persistence\bin\Debug\net5.0\Application.pdb
+D:\Running-Office-Projects\HrpProject\hrp-server-side\Infrastructure.Persistence\bin\Debug\net5.0\Domain.pdb
+D:\Running-Office-Projects\HrpProject\hrp-server-side\Infrastructure.Persistence\obj\Debug\net5.0\Infrastructure.Persistence.csprojAssemblyReference.cache
+D:\Running-Office-Projects\HrpProject\hrp-server-side\Infrastructure.Persistence\obj\Debug\net5.0\Infrastructure.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+D:\Running-Office-Projects\HrpProject\hrp-server-side\Infrastructure.Persistence\obj\Debug\net5.0\Infrastructure.Persistence.AssemblyInfoInputs.cache
+D:\Running-Office-Projects\HrpProject\hrp-server-side\Infrastructure.Persistence\obj\Debug\net5.0\Infrastructure.Persistence.AssemblyInfo.cs
+D:\Running-Office-Projects\HrpProject\hrp-server-side\Infrastructure.Persistence\obj\Debug\net5.0\Infrastructure.Persistence.csproj.CoreCompileInputs.cache
+D:\Running-Office-Projects\HrpProject\hrp-server-side\Infrastructure.Persistence\obj\Debug\net5.0\Infrastructure.Persistence.csproj.CopyComplete
+D:\Running-Office-Projects\HrpProject\hrp-server-side\Infrastructure.Persistence\obj\Debug\net5.0\Infrastructure.Persistence.dll
+D:\Running-Office-Projects\HrpProject\hrp-server-side\Infrastructure.Persistence\obj\Debug\net5.0\ref\Infrastructure.Persistence.dll
+D:\Running-Office-Projects\HrpProject\hrp-server-side\Infrastructure.Persistence\obj\Debug\net5.0\Infrastructure.Persistence.pdb
+D:\HrpProjectBackup\Local Backup HrpProject\HrpProject\hrp-server-side\Infrastructure.Persistence\bin\Debug\net5.0\Infrastructure.Persistence.deps.json
+D:\HrpProjectBackup\Local Backup HrpProject\HrpProject\hrp-server-side\Infrastructure.Persistence\bin\Debug\net5.0\Infrastructure.Persistence.dll
+D:\HrpProjectBackup\Local Backup HrpProject\HrpProject\hrp-server-side\Infrastructure.Persistence\bin\Debug\net5.0\ref\Infrastructure.Persistence.dll
+D:\HrpProjectBackup\Local Backup HrpProject\HrpProject\hrp-server-side\Infrastructure.Persistence\bin\Debug\net5.0\Infrastructure.Persistence.pdb
+D:\HrpProjectBackup\Local Backup HrpProject\HrpProject\hrp-server-side\Infrastructure.Persistence\bin\Debug\net5.0\Application.dll
+D:\HrpProjectBackup\Local Backup HrpProject\HrpProject\hrp-server-side\Infrastructure.Persistence\bin\Debug\net5.0\Domain.dll
+D:\HrpProjectBackup\Local Backup HrpProject\HrpProject\hrp-server-side\Infrastructure.Persistence\bin\Debug\net5.0\Application.pdb
+D:\HrpProjectBackup\Local Backup HrpProject\HrpProject\hrp-server-side\Infrastructure.Persistence\bin\Debug\net5.0\Domain.pdb
+D:\HrpProjectBackup\Local Backup HrpProject\HrpProject\hrp-server-side\Infrastructure.Persistence\obj\Debug\net5.0\Infrastructure.Persistence.csprojAssemblyReference.cache
+D:\HrpProjectBackup\Local Backup HrpProject\HrpProject\hrp-server-side\Infrastructure.Persistence\obj\Debug\net5.0\Infrastructure.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+D:\HrpProjectBackup\Local Backup HrpProject\HrpProject\hrp-server-side\Infrastructure.Persistence\obj\Debug\net5.0\Infrastructure.Persistence.AssemblyInfoInputs.cache
+D:\HrpProjectBackup\Local Backup HrpProject\HrpProject\hrp-server-side\Infrastructure.Persistence\obj\Debug\net5.0\Infrastructure.Persistence.AssemblyInfo.cs
+D:\HrpProjectBackup\Local Backup HrpProject\HrpProject\hrp-server-side\Infrastructure.Persistence\obj\Debug\net5.0\Infrastructure.Persistence.csproj.CoreCompileInputs.cache
+D:\HrpProjectBackup\Local Backup HrpProject\HrpProject\hrp-server-side\Infrastructure.Persistence\obj\Debug\net5.0\Infrastructure.Persistence.csproj.CopyComplete
+D:\HrpProjectBackup\Local Backup HrpProject\HrpProject\hrp-server-side\Infrastructure.Persistence\obj\Debug\net5.0\Infrastructure.Persistence.dll
+D:\HrpProjectBackup\Local Backup HrpProject\HrpProject\hrp-server-side\Infrastructure.Persistence\obj\Debug\net5.0\ref\Infrastructure.Persistence.dll
+D:\HrpProjectBackup\Local Backup HrpProject\HrpProject\hrp-server-side\Infrastructure.Persistence\obj\Debug\net5.0\Infrastructure.Persistence.pdb

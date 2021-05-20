@@ -1,0 +1,72 @@
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\CleanArchitecture.WebApi-master\Application\bin\Debug\netstandard2.1\Application.deps.json
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\CleanArchitecture.WebApi-master\Application\bin\Debug\netstandard2.1\Application.dll
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\CleanArchitecture.WebApi-master\Application\bin\Debug\netstandard2.1\Application.pdb
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\CleanArchitecture.WebApi-master\Application\bin\Debug\netstandard2.1\Domain.dll
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\CleanArchitecture.WebApi-master\Application\bin\Debug\netstandard2.1\Domain.pdb
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\CleanArchitecture.WebApi-master\Application\obj\Debug\netstandard2.1\Application.csprojAssemblyReference.cache
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\CleanArchitecture.WebApi-master\Application\obj\Debug\netstandard2.1\Application.AssemblyInfoInputs.cache
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\CleanArchitecture.WebApi-master\Application\obj\Debug\netstandard2.1\Application.AssemblyInfo.cs
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\CleanArchitecture.WebApi-master\Application\obj\Debug\netstandard2.1\Application.csproj.CoreCompileInputs.cache
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\CleanArchitecture.WebApi-master\Application\obj\Debug\netstandard2.1\Application.csproj.CopyComplete
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\CleanArchitecture.WebApi-master\Application\obj\Debug\netstandard2.1\Application.dll
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\CleanArchitecture.WebApi-master\Application\obj\Debug\netstandard2.1\Application.pdb
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\CustomCleanArchitecureTemplate\Application\bin\Debug\netstandard2.1\Application.deps.json
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\CustomCleanArchitecureTemplate\Application\bin\Debug\netstandard2.1\Application.dll
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\CustomCleanArchitecureTemplate\Application\bin\Debug\netstandard2.1\Application.pdb
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\CustomCleanArchitecureTemplate\Application\bin\Debug\netstandard2.1\Domain.dll
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\CustomCleanArchitecureTemplate\Application\bin\Debug\netstandard2.1\Domain.pdb
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\CustomCleanArchitecureTemplate\Application\obj\Debug\netstandard2.1\Application.csprojAssemblyReference.cache
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\CustomCleanArchitecureTemplate\Application\obj\Debug\netstandard2.1\Application.AssemblyInfoInputs.cache
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\CustomCleanArchitecureTemplate\Application\obj\Debug\netstandard2.1\Application.AssemblyInfo.cs
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\CustomCleanArchitecureTemplate\Application\obj\Debug\netstandard2.1\Application.csproj.CoreCompileInputs.cache
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\CustomCleanArchitecureTemplate\Application\obj\Debug\netstandard2.1\Application.csproj.CopyComplete
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\CustomCleanArchitecureTemplate\Application\obj\Debug\netstandard2.1\Application.dll
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\CustomCleanArchitecureTemplate\Application\obj\Debug\netstandard2.1\Application.pdb
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\TestWebApi\Application\bin\Debug\netstandard2.1\Application.deps.json
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\TestWebApi\Application\bin\Debug\netstandard2.1\Application.dll
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\TestWebApi\Application\bin\Debug\netstandard2.1\Application.pdb
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\TestWebApi\Application\bin\Debug\netstandard2.1\Domain.dll
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\TestWebApi\Application\bin\Debug\netstandard2.1\Domain.pdb
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\TestWebApi\Application\obj\Debug\netstandard2.1\Application.csprojAssemblyReference.cache
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\TestWebApi\Application\obj\Debug\netstandard2.1\Application.AssemblyInfoInputs.cache
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\TestWebApi\Application\obj\Debug\netstandard2.1\Application.AssemblyInfo.cs
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\TestWebApi\Application\obj\Debug\netstandard2.1\Application.csproj.CoreCompileInputs.cache
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\TestWebApi\Application\obj\Debug\netstandard2.1\Application.csproj.CopyComplete
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\TestWebApi\Application\obj\Debug\netstandard2.1\Application.dll
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\TestWebApi\Application\obj\Debug\netstandard2.1\Application.pdb
+D:\Running-Office-Projects\HrpProject\HrpAdminApi\Application\bin\Debug\netstandard2.1\Application.deps.json
+D:\Running-Office-Projects\HrpProject\HrpAdminApi\Application\bin\Debug\netstandard2.1\Application.dll
+D:\Running-Office-Projects\HrpProject\HrpAdminApi\Application\bin\Debug\netstandard2.1\Application.pdb
+D:\Running-Office-Projects\HrpProject\HrpAdminApi\Application\bin\Debug\netstandard2.1\Domain.dll
+D:\Running-Office-Projects\HrpProject\HrpAdminApi\Application\bin\Debug\netstandard2.1\Domain.pdb
+D:\Running-Office-Projects\HrpProject\HrpAdminApi\Application\obj\Debug\netstandard2.1\Application.csprojAssemblyReference.cache
+D:\Running-Office-Projects\HrpProject\HrpAdminApi\Application\obj\Debug\netstandard2.1\Application.AssemblyInfoInputs.cache
+D:\Running-Office-Projects\HrpProject\HrpAdminApi\Application\obj\Debug\netstandard2.1\Application.AssemblyInfo.cs
+D:\Running-Office-Projects\HrpProject\HrpAdminApi\Application\obj\Debug\netstandard2.1\Application.csproj.CoreCompileInputs.cache
+D:\Running-Office-Projects\HrpProject\HrpAdminApi\Application\obj\Debug\netstandard2.1\Application.csproj.CopyComplete
+D:\Running-Office-Projects\HrpProject\HrpAdminApi\Application\obj\Debug\netstandard2.1\Application.dll
+D:\Running-Office-Projects\HrpProject\HrpAdminApi\Application\obj\Debug\netstandard2.1\Application.pdb
+D:\Running-Office-Projects\HrpProject\hrp-server-side\Application\bin\Debug\netstandard2.1\Application.deps.json
+D:\Running-Office-Projects\HrpProject\hrp-server-side\Application\bin\Debug\netstandard2.1\Application.dll
+D:\Running-Office-Projects\HrpProject\hrp-server-side\Application\bin\Debug\netstandard2.1\Application.pdb
+D:\Running-Office-Projects\HrpProject\hrp-server-side\Application\bin\Debug\netstandard2.1\Domain.dll
+D:\Running-Office-Projects\HrpProject\hrp-server-side\Application\bin\Debug\netstandard2.1\Domain.pdb
+D:\Running-Office-Projects\HrpProject\hrp-server-side\Application\obj\Debug\netstandard2.1\Application.csprojAssemblyReference.cache
+D:\Running-Office-Projects\HrpProject\hrp-server-side\Application\obj\Debug\netstandard2.1\Application.AssemblyInfoInputs.cache
+D:\Running-Office-Projects\HrpProject\hrp-server-side\Application\obj\Debug\netstandard2.1\Application.AssemblyInfo.cs
+D:\Running-Office-Projects\HrpProject\hrp-server-side\Application\obj\Debug\netstandard2.1\Application.csproj.CoreCompileInputs.cache
+D:\Running-Office-Projects\HrpProject\hrp-server-side\Application\obj\Debug\netstandard2.1\Application.csproj.CopyComplete
+D:\Running-Office-Projects\HrpProject\hrp-server-side\Application\obj\Debug\netstandard2.1\Application.dll
+D:\Running-Office-Projects\HrpProject\hrp-server-side\Application\obj\Debug\netstandard2.1\Application.pdb
+D:\HrpProjectBackup\Local Backup HrpProject\HrpProject\hrp-server-side\Application\bin\Debug\netstandard2.1\Application.deps.json
+D:\HrpProjectBackup\Local Backup HrpProject\HrpProject\hrp-server-side\Application\bin\Debug\netstandard2.1\Application.dll
+D:\HrpProjectBackup\Local Backup HrpProject\HrpProject\hrp-server-side\Application\bin\Debug\netstandard2.1\Application.pdb
+D:\HrpProjectBackup\Local Backup HrpProject\HrpProject\hrp-server-side\Application\bin\Debug\netstandard2.1\Domain.dll
+D:\HrpProjectBackup\Local Backup HrpProject\HrpProject\hrp-server-side\Application\bin\Debug\netstandard2.1\Domain.pdb
+D:\HrpProjectBackup\Local Backup HrpProject\HrpProject\hrp-server-side\Application\obj\Debug\netstandard2.1\Application.csprojAssemblyReference.cache
+D:\HrpProjectBackup\Local Backup HrpProject\HrpProject\hrp-server-side\Application\obj\Debug\netstandard2.1\Application.AssemblyInfoInputs.cache
+D:\HrpProjectBackup\Local Backup HrpProject\HrpProject\hrp-server-side\Application\obj\Debug\netstandard2.1\Application.AssemblyInfo.cs
+D:\HrpProjectBackup\Local Backup HrpProject\HrpProject\hrp-server-side\Application\obj\Debug\netstandard2.1\Application.csproj.CoreCompileInputs.cache
+D:\HrpProjectBackup\Local Backup HrpProject\HrpProject\hrp-server-side\Application\obj\Debug\netstandard2.1\Application.csproj.CopyComplete
+D:\HrpProjectBackup\Local Backup HrpProject\HrpProject\hrp-server-side\Application\obj\Debug\netstandard2.1\Application.dll
+D:\HrpProjectBackup\Local Backup HrpProject\HrpProject\hrp-server-side\Application\obj\Debug\netstandard2.1\Application.pdb

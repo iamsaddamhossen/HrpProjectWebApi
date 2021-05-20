@@ -1,0 +1,85 @@
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\CustomCleanArchitecureTemplate\Infrastructure.Shared\bin\Debug\net5.0\Infrastructure.Shared.deps.json
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\CustomCleanArchitecureTemplate\Infrastructure.Shared\bin\Debug\net5.0\Infrastructure.Shared.dll
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\CustomCleanArchitecureTemplate\Infrastructure.Shared\bin\Debug\net5.0\ref\Infrastructure.Shared.dll
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\CustomCleanArchitecureTemplate\Infrastructure.Shared\bin\Debug\net5.0\Infrastructure.Shared.pdb
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\CustomCleanArchitecureTemplate\Infrastructure.Shared\bin\Debug\net5.0\Application.dll
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\CustomCleanArchitecureTemplate\Infrastructure.Shared\bin\Debug\net5.0\Domain.dll
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\CustomCleanArchitecureTemplate\Infrastructure.Shared\bin\Debug\net5.0\Application.pdb
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\CustomCleanArchitecureTemplate\Infrastructure.Shared\bin\Debug\net5.0\Domain.pdb
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\CustomCleanArchitecureTemplate\Infrastructure.Shared\obj\Debug\net5.0\Infrastructure.Shared.csprojAssemblyReference.cache
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\CustomCleanArchitecureTemplate\Infrastructure.Shared\obj\Debug\net5.0\Infrastructure.Shared.GeneratedMSBuildEditorConfig.editorconfig
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\CustomCleanArchitecureTemplate\Infrastructure.Shared\obj\Debug\net5.0\Infrastructure.Shared.AssemblyInfoInputs.cache
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\CustomCleanArchitecureTemplate\Infrastructure.Shared\obj\Debug\net5.0\Infrastructure.Shared.AssemblyInfo.cs
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\CustomCleanArchitecureTemplate\Infrastructure.Shared\obj\Debug\net5.0\Infrastructure.Shared.csproj.CoreCompileInputs.cache
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\CustomCleanArchitecureTemplate\Infrastructure.Shared\obj\Debug\net5.0\Infrastructure.Shared.csproj.CopyComplete
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\CustomCleanArchitecureTemplate\Infrastructure.Shared\obj\Debug\net5.0\Infrastructure.Shared.dll
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\CustomCleanArchitecureTemplate\Infrastructure.Shared\obj\Debug\net5.0\ref\Infrastructure.Shared.dll
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\CustomCleanArchitecureTemplate\Infrastructure.Shared\obj\Debug\net5.0\Infrastructure.Shared.pdb
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\TestWebApi\Infrastructure.Shared\bin\Debug\net5.0\Infrastructure.Shared.deps.json
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\TestWebApi\Infrastructure.Shared\bin\Debug\net5.0\Infrastructure.Shared.dll
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\TestWebApi\Infrastructure.Shared\bin\Debug\net5.0\ref\Infrastructure.Shared.dll
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\TestWebApi\Infrastructure.Shared\bin\Debug\net5.0\Infrastructure.Shared.pdb
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\TestWebApi\Infrastructure.Shared\bin\Debug\net5.0\Application.dll
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\TestWebApi\Infrastructure.Shared\bin\Debug\net5.0\Domain.dll
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\TestWebApi\Infrastructure.Shared\bin\Debug\net5.0\Application.pdb
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\TestWebApi\Infrastructure.Shared\bin\Debug\net5.0\Domain.pdb
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\TestWebApi\Infrastructure.Shared\obj\Debug\net5.0\Infrastructure.Shared.csprojAssemblyReference.cache
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\TestWebApi\Infrastructure.Shared\obj\Debug\net5.0\Infrastructure.Shared.GeneratedMSBuildEditorConfig.editorconfig
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\TestWebApi\Infrastructure.Shared\obj\Debug\net5.0\Infrastructure.Shared.AssemblyInfoInputs.cache
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\TestWebApi\Infrastructure.Shared\obj\Debug\net5.0\Infrastructure.Shared.AssemblyInfo.cs
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\TestWebApi\Infrastructure.Shared\obj\Debug\net5.0\Infrastructure.Shared.csproj.CoreCompileInputs.cache
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\TestWebApi\Infrastructure.Shared\obj\Debug\net5.0\Infrastructure.Shared.csproj.CopyComplete
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\TestWebApi\Infrastructure.Shared\obj\Debug\net5.0\Infrastructure.Shared.dll
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\TestWebApi\Infrastructure.Shared\obj\Debug\net5.0\ref\Infrastructure.Shared.dll
+D:\Old Files\Personal\ASP.NET\ASP.NET Core Projects\Clean Architechture Asp.Net\New CleanArchitectureTemplate\TestWebApi\Infrastructure.Shared\obj\Debug\net5.0\Infrastructure.Shared.pdb
+D:\Running-Office-Projects\HrpProject\HrpAdminApi\Infrastructure.Shared\bin\Debug\net5.0\Infrastructure.Shared.deps.json
+D:\Running-Office-Projects\HrpProject\HrpAdminApi\Infrastructure.Shared\bin\Debug\net5.0\Infrastructure.Shared.dll
+D:\Running-Office-Projects\HrpProject\HrpAdminApi\Infrastructure.Shared\bin\Debug\net5.0\ref\Infrastructure.Shared.dll
+D:\Running-Office-Projects\HrpProject\HrpAdminApi\Infrastructure.Shared\bin\Debug\net5.0\Infrastructure.Shared.pdb
+D:\Running-Office-Projects\HrpProject\HrpAdminApi\Infrastructure.Shared\bin\Debug\net5.0\Application.dll
+D:\Running-Office-Projects\HrpProject\HrpAdminApi\Infrastructure.Shared\bin\Debug\net5.0\Domain.dll
+D:\Running-Office-Projects\HrpProject\HrpAdminApi\Infrastructure.Shared\bin\Debug\net5.0\Application.pdb
+D:\Running-Office-Projects\HrpProject\HrpAdminApi\Infrastructure.Shared\bin\Debug\net5.0\Domain.pdb
+D:\Running-Office-Projects\HrpProject\HrpAdminApi\Infrastructure.Shared\obj\Debug\net5.0\Infrastructure.Shared.csprojAssemblyReference.cache
+D:\Running-Office-Projects\HrpProject\HrpAdminApi\Infrastructure.Shared\obj\Debug\net5.0\Infrastructure.Shared.GeneratedMSBuildEditorConfig.editorconfig
+D:\Running-Office-Projects\HrpProject\HrpAdminApi\Infrastructure.Shared\obj\Debug\net5.0\Infrastructure.Shared.AssemblyInfoInputs.cache
+D:\Running-Office-Projects\HrpProject\HrpAdminApi\Infrastructure.Shared\obj\Debug\net5.0\Infrastructure.Shared.AssemblyInfo.cs
+D:\Running-Office-Projects\HrpProject\HrpAdminApi\Infrastructure.Shared\obj\Debug\net5.0\Infrastructure.Shared.csproj.CoreCompileInputs.cache
+D:\Running-Office-Projects\HrpProject\HrpAdminApi\Infrastructure.Shared\obj\Debug\net5.0\Infrastructure.Shared.csproj.CopyComplete
+D:\Running-Office-Projects\HrpProject\HrpAdminApi\Infrastructure.Shared\obj\Debug\net5.0\Infrastructure.Shared.dll
+D:\Running-Office-Projects\HrpProject\HrpAdminApi\Infrastructure.Shared\obj\Debug\net5.0\ref\Infrastructure.Shared.dll
+D:\Running-Office-Projects\HrpProject\HrpAdminApi\Infrastructure.Shared\obj\Debug\net5.0\Infrastructure.Shared.pdb
+D:\Running-Office-Projects\HrpProject\hrp-server-side\Infrastructure.Shared\bin\Debug\net5.0\Infrastructure.Shared.deps.json
+D:\Running-Office-Projects\HrpProject\hrp-server-side\Infrastructure.Shared\bin\Debug\net5.0\Infrastructure.Shared.dll
+D:\Running-Office-Projects\HrpProject\hrp-server-side\Infrastructure.Shared\bin\Debug\net5.0\ref\Infrastructure.Shared.dll
+D:\Running-Office-Projects\HrpProject\hrp-server-side\Infrastructure.Shared\bin\Debug\net5.0\Infrastructure.Shared.pdb
+D:\Running-Office-Projects\HrpProject\hrp-server-side\Infrastructure.Shared\bin\Debug\net5.0\Application.dll
+D:\Running-Office-Projects\HrpProject\hrp-server-side\Infrastructure.Shared\bin\Debug\net5.0\Domain.dll
+D:\Running-Office-Projects\HrpProject\hrp-server-side\Infrastructure.Shared\bin\Debug\net5.0\Application.pdb
+D:\Running-Office-Projects\HrpProject\hrp-server-side\Infrastructure.Shared\bin\Debug\net5.0\Domain.pdb
+D:\Running-Office-Projects\HrpProject\hrp-server-side\Infrastructure.Shared\obj\Debug\net5.0\Infrastructure.Shared.csprojAssemblyReference.cache
+D:\Running-Office-Projects\HrpProject\hrp-server-side\Infrastructure.Shared\obj\Debug\net5.0\Infrastructure.Shared.GeneratedMSBuildEditorConfig.editorconfig
+D:\Running-Office-Projects\HrpProject\hrp-server-side\Infrastructure.Shared\obj\Debug\net5.0\Infrastructure.Shared.AssemblyInfoInputs.cache
+D:\Running-Office-Projects\HrpProject\hrp-server-side\Infrastructure.Shared\obj\Debug\net5.0\Infrastructure.Shared.AssemblyInfo.cs
+D:\Running-Office-Projects\HrpProject\hrp-server-side\Infrastructure.Shared\obj\Debug\net5.0\Infrastructure.Shared.csproj.CoreCompileInputs.cache
+D:\Running-Office-Projects\HrpProject\hrp-server-side\Infrastructure.Shared\obj\Debug\net5.0\Infrastructure.Shared.csproj.CopyComplete
+D:\Running-Office-Projects\HrpProject\hrp-server-side\Infrastructure.Shared\obj\Debug\net5.0\Infrastructure.Shared.dll
+D:\Running-Office-Projects\HrpProject\hrp-server-side\Infrastructure.Shared\obj\Debug\net5.0\ref\Infrastructure.Shared.dll
+D:\Running-Office-Projects\HrpProject\hrp-server-side\Infrastructure.Shared\obj\Debug\net5.0\Infrastructure.Shared.pdb
+D:\HrpProjectBackup\Local Backup HrpProject\HrpProject\hrp-server-side\Infrastructure.Shared\bin\Debug\net5.0\Infrastructure.Shared.deps.json
+D:\HrpProjectBackup\Local Backup HrpProject\HrpProject\hrp-server-side\Infrastructure.Shared\bin\Debug\net5.0\Infrastructure.Shared.dll
+D:\HrpProjectBackup\Local Backup HrpProject\HrpProject\hrp-server-side\Infrastructure.Shared\bin\Debug\net5.0\ref\Infrastructure.Shared.dll
+D:\HrpProjectBackup\Local Backup HrpProject\HrpProject\hrp-server-side\Infrastructure.Shared\bin\Debug\net5.0\Infrastructure.Shared.pdb
+D:\HrpProjectBackup\Local Backup HrpProject\HrpProject\hrp-server-side\Infrastructure.Shared\bin\Debug\net5.0\Application.dll
+D:\HrpProjectBackup\Local Backup HrpProject\HrpProject\hrp-server-side\Infrastructure.Shared\bin\Debug\net5.0\Domain.dll
+D:\HrpProjectBackup\Local Backup HrpProject\HrpProject\hrp-server-side\Infrastructure.Shared\bin\Debug\net5.0\Application.pdb
+D:\HrpProjectBackup\Local Backup HrpProject\HrpProject\hrp-server-side\Infrastructure.Shared\bin\Debug\net5.0\Domain.pdb
+D:\HrpProjectBackup\Local Backup HrpProject\HrpProject\hrp-server-side\Infrastructure.Shared\obj\Debug\net5.0\Infrastructure.Shared.csprojAssemblyReference.cache
+D:\HrpProjectBackup\Local Backup HrpProject\HrpProject\hrp-server-side\Infrastructure.Shared\obj\Debug\net5.0\Infrastructure.Shared.GeneratedMSBuildEditorConfig.editorconfig
+D:\HrpProjectBackup\Local Backup HrpProject\HrpProject\hrp-server-side\Infrastructure.Shared\obj\Debug\net5.0\Infrastructure.Shared.AssemblyInfoInputs.cache
+D:\HrpProjectBackup\Local Backup HrpProject\HrpProject\hrp-server-side\Infrastructure.Shared\obj\Debug\net5.0\Infrastructure.Shared.AssemblyInfo.cs
+D:\HrpProjectBackup\Local Backup HrpProject\HrpProject\hrp-server-side\Infrastructure.Shared\obj\Debug\net5.0\Infrastructure.Shared.csproj.CoreCompileInputs.cache
+D:\HrpProjectBackup\Local Backup HrpProject\HrpProject\hrp-server-side\Infrastructure.Shared\obj\Debug\net5.0\Infrastructure.Shared.csproj.CopyComplete
+D:\HrpProjectBackup\Local Backup HrpProject\HrpProject\hrp-server-side\Infrastructure.Shared\obj\Debug\net5.0\Infrastructure.Shared.dll
+D:\HrpProjectBackup\Local Backup HrpProject\HrpProject\hrp-server-side\Infrastructure.Shared\obj\Debug\net5.0\ref\Infrastructure.Shared.dll
+D:\HrpProjectBackup\Local Backup HrpProject\HrpProject\hrp-server-side\Infrastructure.Shared\obj\Debug\net5.0\Infrastructure.Shared.pdb
